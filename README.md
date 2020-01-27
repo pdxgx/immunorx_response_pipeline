@@ -14,12 +14,14 @@ We ran python scripts with python 2.7.14, installed using [Anaconda](https://www
 * [`neoepiscope` v0.3.5](https://github.com/pdxgx/neoepiscope)
 * [`pyliftover` v0.4](https://github.com/konstantint/pyliftover)
 
-You will also need `Open-CRAVAT`, which is installable via `pip`, but will require a virtual environment with python 3.6 or higher. Use the following commands to create and set up the environment:
+You will also need `Open-CRAVAT`, which is installable via `pip`, but will require a virtual environment with python 3.6 or higher. Use the following commands to create and set up the environment (including installing `intervaltree` v2.1.0 for another analysis):
 
 ```
 conda create -n cravat_env python=3.6
 
-conda activate cravat_env
+conda activate cravat_env==1.6.1
+
+pip install intervaltree==2.1.0
 
 pip install open-cravat
 
@@ -71,6 +73,10 @@ They also require the following perl modules, installable with [cpan minus](http
 * `IO::File`
 * `Pod::Usage`
 * `Data::Dumper`
+
+*Repository to clone:*
+
+You will need to clone [this repository](https://github.com/JulianneDavid/shared-cancer-splicing) for use in tumor-specific junction detection.
 
 *Additional required software:*
 
@@ -151,6 +157,10 @@ We downloaded the GENCODE [GRCh37](ftp://ftp.ebi.ac.uk/pub/databases/gencode/Gen
 *For DNA neoepitope prediction:*
 
 We ran `neoepiscope`'s `download` functionality, answering yes to downloading/indexing the GENCODE v19 annotation, and yes to downloading the hg19 bowtie index.
+
+*For tumor-specific splice junction identification:*
+
+We used some data described in the "Data" section of [this repository](github.com/JulianneDavid/shared-cancer-splicing). We downloaded all of the exon-exon junction BEDs for GTEx and TCGA, as well as the GENCODE v28 GTF file.
 
 *For extended neoepitope burden analysis:*
 
@@ -433,9 +443,31 @@ Once again, `OUTPUT_DIR` is the path to the output directory from the previous s
 
 ### Tumor-specific splice junctions
 
-Information on calling tumor-specific junctions from tumor RNA-seq alignments coming soon.
+We first created TCGA and GTEx junction indexes following the instructions in step 1 of the "Execute" section of [this repository](github.com/JulianneDavid/shared-cancer-splicing), using a virtual environment:
 
-To tally tumor-specific junction burden, we used a [python script](scripts/process_neojunctions.py):
+```
+conda activate cravat_env
+
+python3 jx_indexer.py -d [DB_DIR] index -c [GTEx_JUNCTION_COVERAGE] -C [TCGA_JUNCTION_COVERAGE] -b [GTEx_JUNCTION_BED] -B [TCGA_JUNCTION_BED] -p [GTEx_PHEN] -P [TCGA_PHEN] -s [RECOUNT_SAMPLE_IDS] -g [GENCODE_ANNOTATION_GTF]
+
+conda deactivate
+```
+
+See the "Data" section of the respository for descriptions of the input files. The `DB_DIR` now contains junction indexes. (Note that this process may take around 24 hours to complete.)
+
+Next, we called junctions present in our tumor samples but not GTEx or SRA using a [python script](scripts/cancer_junction_query.py):
+
+```python cancer_junction_query.py -d [DB_DIR] -o [OUTPUT_DIR] -j [RNA_ALIGNMENT_DIR] -g [GENCODE_GTF] --recursive-glob --tumor-prevalences Skin_Cutaneous_Melanoma Kidney_Renal_Clear_Cell_Carcinoma```
+
+`DB_DIR` is the path to the directory containing the junction indexes from the previous step. `OUTPUT_DIR` is the path to the directory to which the script will write output. `RNA_ALIGNMENT_DIR` is that path to your GRCh38 RNA-seq alignments (stored in per-sample subdirectories). `GENCODE_GTF` is the path to the GENCODE v28 GTF file (see the "For tumor-specific splice junction identification" subsection of "Genomic Annotation Data" above).
+
+We then filtered out junctions that were present in any melanocyte samples in the SRA using a [python script](scripts/singleexpt_jxs_SRA_filter.py):
+
+```python singleexpt_jxs_SRA_filter.py --snaptron-results [THIS_REPO]/data/ -o [JUNCTION_DIR] --sra-filter melanocyte_primarycell melanocyte_cellline```
+
+`THIS_REPO` is the path to this repository, which contains necessary `Snaptron` data in the `data` subdirectory. (These data represent the results of `Snaptron` queries to the SRA for identifying melanocyte junctions.) `JUNCTION_DIR` is the path to the directory to which this script will write the filtered junctions.
+
+Finally, to tally tumor-specific junction burden, we used a [python script](scripts/process_neojunctions.py):
 
 ```python process_neojunctions.py -m [MANIFEST] -o [OUTPUT_DIR] -j [JUNCTION_DIR]```
 
