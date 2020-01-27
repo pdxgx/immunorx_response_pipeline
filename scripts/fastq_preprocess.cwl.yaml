@@ -1,0 +1,30 @@
+#!/usr/bin/env cwl-runner
+
+class: CommandLineTool
+cwlVersion: v1.0
+
+requirements:
+  - class: DockerRequirement
+    dockerPull: ubuntu:16.04
+  - class: InlineJavascriptRequirement
+
+hints:
+  - class: ResourceRequirement
+    coresMin: 1
+    ramMin: 4000
+    outdirMin: 5000000
+
+baseCommand: ["bash", "-c"]
+arguments:
+  - $("zcat " + inputs.fastq.path + " | sed -E 's~^(@.+[.][0-9]+)[.]([12]) .+( length=[0-9]+)~\\1/\\2\\3~' | gzip -f")
+
+inputs:
+  fastq:
+    type: File
+
+outputs:
+  processed_fastq:
+    type: stdout
+
+stdout: $("processed_" + inputs.fastq.basename.split("_R").join("_"))
+stderr: stderr

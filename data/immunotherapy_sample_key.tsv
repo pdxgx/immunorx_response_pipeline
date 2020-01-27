@@ -1,0 +1,1032 @@
+subject_id	stage	tumor_v_normal	anatomical_location	treatment	aCTLA4_response	aPD1_response	response_duration_days	PFS_days	overall_survival_days	censored_days	vital_status	study_accession	run_accession	number_nonsynonymous_mutations	number_somatic_mutations	number_binding_neoantigens	irRECIST
+Hugo_Pt1	M1b	T	Subcutaneous (lower extremity)	Pembrolizumab	NA	N	NA	NA	607	NA	Dead	PRJNA312948	SRR3184279	1645	9469	755	Progressive Disease
+Hugo_Pt2	M1c	T	Lung	Pembrolizumab	NA	Y	NA	NA	927	927	Alive	PRJNA312948	SRR3184280	1943	14127	897	Partial Response
+Hugo_Pt4	M1c	T	Adrenal	Pembrolizumab	NA	Y	NA	NA	948	948	Alive	PRJNA312948	SRR3184281	3985	26110	1659	Partial Response
+Hugo_Pt5	M1c	T	Subcutaneous (chestwall)	Pembrolizumab	NA	Y	NA	NA	439	439	Alive	PRJNA312948	SRR3184282	316	1875	189	Partial Response
+Hugo_Pt6	M1c	T	Subcutaneous (upper extremity)	Pembrolizumab	NA	Y	NA	NA	882	882	Alive	PRJNA312948	SRR3184283	238	1684	95	Partial Response
+Hugo_Pt7	M1c	T	Subcutaneous (scalp)	Pembrolizumab	NA	N	NA	NA	662	NA	Dead	PRJNA312948	SRR3184284	1217	7866	489	Progressive Disease
+Hugo_Pt8	M1a	T	Subcutaneous (lower extremity)	Pembrolizumab	NA	Y	NA	NA	NA	NA	Alive	PRJNA312948	SRR3184285	807	3756	165	Complete Response
+Hugo_Pt9	III	T	Subcutaneous (upper extremity)	Pembrolizumab	NA	Y	NA	NA	1054	1054	Alive	PRJNA312948	SRR3184286	495	2881	243	Complete Response
+Hugo_Pt10	M1a	T	Subcutaneous (neck)	Pembrolizumab	NA	N	NA	NA	387	387	Alive	PRJNA312948	SRR3184287	232	1639	90	Progressive Disease
+Hugo_Pt12	M1c	T	Subcutaneous (abdomen)	Pembrolizumab	NA	N	NA	NA	327	NA	Dead	PRJNA312948	SRR3184288	104	678	52	Progressive Disease
+Hugo_Pt13	M1c	T	Subcutaneous (back)	Pembrolizumab	NA	Y	NA	NA	917	917	Alive	PRJNA312948	SRR3184289	460	2989	231	Complete Response
+Hugo_Pt14	M1c	T	Subcutaneous (neck)	Pembrolizumab	NA	N	NA	NA	54	54	Alive	PRJNA312948	SRR3184290	1465	9407	679	Progressive Disease
+Hugo_Pt15	M1b	T	Lymph Node (clavicle)	Pembrolizumab	NA	Y	NA	NA	980	NA	Dead	PRJNA312948	SRR3184291	523	2976	252	Partial Response
+Hugo_Pt16	M1b	T	Lung	Pembrolizumab	NA	N	NA	NA	186	NA	Dead	PRJNA312948	SRR3184292	526	2615	263	Progressive Disease
+Hugo_Pt19	M1c	T	Subcutaneous (chestwall)	Pembrolizumab	NA	Y	NA	NA	1060	1060	Alive	PRJNA312948	SRR3184293	655	4724	263	Partial Response
+Hugo_Pt20	M1c	T	Lymph Node (clavicle)	Pembrolizumab	NA	N	NA	NA	337	NA	Dead	PRJNA312948	SRR3184294	577	3219	265	Progressive Disease
+Hugo_Pt22	M1c	T	Subcutaneous (flank)	Pembrolizumab	NA	N	NA	NA	182	NA	Dead	PRJNA312948	SRR3184295	73	1734	43	Progressive Disease
+Hugo_Pt23	M1c	T	Subcutaneous (lower extremity)	Pembrolizumab	NA	N	NA	NA	103	NA	Dead	PRJNA312948	SRR3184296	281	1848	149	Progressive Disease
+Hugo_Pt25	M1c	T	Lymph Node (inguinal)	Pembrolizumab	NA	N	NA	NA	262	NA	Dead	PRJNA312948	SRR3184297	139	1062	54	Progressive Disease
+Hugo_Pt27	M1c	T	Subcutaneous (upper extremity)	Pembrolizumab	NA	Y	NA	NA	548	548	Alive	PRJNA312948	SRR3184298	2297	13669	1250	Complete Response
+Hugo_Pt27	M1c	T	Subcutaneous (back)	Pembrolizumab	NA	Y	NA	NA	548	548	Alive	PRJNA312948	SRR3184299	2297	13669	1250	Complete Response
+Hugo_Pt28	M1c	T	Subcutaneous (scalp)	Pembrolizumab	NA	Y	NA	NA	439	NA	Dead	PRJNA312948	SRR3184300	483	1964	218	Partial Response
+Hugo_Pt29	M1c	T	Lung	Pembrolizumab	NA	N	NA	NA	269	NA	Dead	PRJNA312948	SRR3184301	244	1245	127	Progressive Disease
+Hugo_Pt31	M1c	T	Bowel (sigmoid colon)	Pembrolizumab	NA	N	NA	NA	704	704	Alive	PRJNA312948	SRR3184302	621	3710	388	Progressive Disease
+Hugo_Pt32	M1c	T	Subcutaneous (abdomen)	Pembrolizumab	NA	N	NA	NA	171	NA	Dead	PRJNA312948	SRR3184303	261	1482	156	Progressive Disease
+Hugo_Pt35	M1c	T	Subcutaneous (flank)	Pembrolizumab	NA	Y	NA	NA	427	427	Alive	PRJNA312948	SRR3184304	313	2000	198	Partial Response
+Hugo_Pt37	M1c	T	Bowel (small)	Pembrolizumab	NA	Y	NA	NA	364	364	Alive	PRJNA312948	SRR3184305	557	3632	191	Partial Response
+Hugo_Pt38	M1c	T	Lymph Node (cervical)	Pembrolizumab	NA	Y	NA	NA	448	448	Alive	PRJNA312948	SRR3184306	81	517	7	Partial Response
+Hugo_Pt1	M1b	T	Subcutaneous (lower extremity)	Pembrolizumab	NA	N	NA	NA	607	NA	Dead	PRJNA307199	SRR3083866	1645	9469	755	Progressive Disease
+Hugo_Pt2	M1c	T	Lung	Pembrolizumab	NA	Y	NA	NA	927	927	Alive	PRJNA307199	SRR3083839	1943	14127	897	Partial Response
+Hugo_Pt3	M1c	T	Bowel	Pembrolizumab	NA	Y	NA	NA	691	NA	Dead	PRJNA307199	SRR3083841	1146	5475	631	Partial Response
+Hugo_Pt4	M1c	T	Adrenal	Pembrolizumab	NA	Y	NA	NA	948	948	Alive	PRJNA307199	SRR3083837	3985	26110	1659	Partial Response
+Hugo_Pt5	M1c	T	Subcutaneous (chestwall)	Pembrolizumab	NA	Y	NA	NA	439	439	Alive	PRJNA307199	SRR3083857	316	1875	189	Partial Response
+Hugo_Pt6	M1c	T	Subcutaneous (upper extremity)	Pembrolizumab	NA	Y	NA	NA	882	882	Alive	PRJNA307199	SRR3083863	238	1684	95	Partial Response
+Hugo_Pt7	M1c	T	Subcutaneous (scalp)	Pembrolizumab	NA	N	NA	NA	662	NA	Dead	PRJNA307199	SRR3083870	1217	7866	489	Progressive Disease
+Hugo_Pt8	M1a	T	Subcutaneous (lower extremity)	Pembrolizumab	NA	Y	NA	NA	NA	NA	Alive	PRJNA343789	SRR4289715	807	3756	165	Complete Response
+Hugo_Pt9	III	T	Subcutaneous (upper extremity)	Pembrolizumab	NA	Y	NA	NA	1054	1054	Alive	PRJNA307199	SRR3083849	495	2881	243	Complete Response
+Hugo_Pt10	M1a	T	Subcutaneous (neck)	Pembrolizumab	NA	N	NA	NA	387	387	Alive	PRJNA343789	SRR4289717	232	1639	90	Progressive Disease
+Hugo_Pt11	M1c	T	Cutaneous (face)	Pembrolizumab	NA	N	NA	NA	467	NA	Dead	PRJNA343789	SRR4289719	253	1942	127	Progressive Disease
+Hugo_Pt12	M1c	T	Subcutaneous (abdomen)	Pembrolizumab	NA	N	NA	NA	327	NA	Dead	PRJNA307199	SRR3083882	104	678	52	Progressive Disease
+Hugo_Pt13	M1c	T	Subcutaneous (back)	Pembrolizumab	NA	Y	NA	NA	917	917	Alive	PRJNA307199	SRR3083855	460	2989	231	Complete Response
+Hugo_Pt14	M1c	T	Subcutaneous (neck)	Pembrolizumab	NA	N	NA	NA	54	54	Alive	PRJNA307199	SRR3083868	1465	9407	679	Progressive Disease
+Hugo_Pt15	M1b	T	Lymph Node (clavicle)	Pembrolizumab	NA	Y	NA	NA	980	NA	Dead	PRJNA307199	SRR3083845	523	2976	252	Partial Response
+Hugo_Pt16	M1b	T	Lung	Pembrolizumab	NA	N	NA	NA	186	NA	Dead	PRJNA343789	SRR4289721	526	2615	263	Progressive Disease
+Hugo_Pt17	M1a	T	Subcutaneous (scalp)	Pembrolizumab	NA	N	NA	NA	953	NA	Dead	PRJNA343789	SRR4289723	849	4859	418	Progressive Disease
+Hugo_Pt18	M1c	T	Lymph Node (axilla)	Pembrolizumab	NA	Y	NA	NA	1081	1081	Alive	PRJNA307199	SRR3083859	312	2273	156	Partial Response
+Hugo_Pt19	M1c	T	Subcutaneous (chestwall)	Pembrolizumab	NA	Y	NA	NA	1060	1060	Alive	PRJNA307199	SRR3083847	655	4724	263	Partial Response
+Hugo_Pt20	M1c	T	Lymph Node (clavicle)	Pembrolizumab	NA	N	NA	NA	337	NA	Dead	PRJNA307199	SRR3083872	577	3219	265	Progressive Disease
+Hugo_Pt21	M1b	T	Cell line (lung)	Pembrolizumab	NA	Y	NA	NA	945	NA	Dead	PRJNA307199	SRR3083861	239	1734	115	Partial Response
+Hugo_Pt22	M1c	T	Subcutaneous (flank)	Pembrolizumab	NA	N	NA	NA	182	NA	Dead	PRJNA307199	SRR3083878	73	1734	43	Progressive Disease
+Hugo_Pt23	M1c	T	Subcutaneous (lower extremity)	Pembrolizumab	NA	N	NA	NA	103	NA	Dead	PRJNA307199	SRR3083874	281	1848	149	Progressive Disease
+Hugo_Pt24	M1c	T	Cell line (lymph node)	Pembrolizumab	NA	Y	NA	NA	974	NA	Dead	PRJNA307199	SRR3083853	443	2694	240	Partial Response
+Hugo_Pt25	M1c	T	Lymph Node (inguinal)	Pembrolizumab	NA	N	NA	NA	262	NA	Dead	PRJNA307199	SRR3083880	139	1062	54	Progressive Disease
+Hugo_Pt26	M1c	T	Lymph Node (inguinal)	Pembrolizumab	NA	Y	NA	NA	1336	1336	Alive	PRJNA307199	SRR3083843	1124	6427	571	Complete Response
+Hugo_Pt27	M1c	T	Subcutaneous (upper extremity)	Pembrolizumab	NA	Y	NA	NA	548	548	Alive	PRJNA343789	SRR4289725	2297	13669	1250	Complete Response
+Hugo_Pt27	M1c	T	Subcutaneous (back)	Pembrolizumab	NA	Y	NA	NA	548	548	Alive	PRJNA343789	SRR4289726	2297	13669	1250	Complete Response
+Hugo_Pt28	M1c	T	Subcutaneous (scalp)	Pembrolizumab	NA	Y	NA	NA	439	NA	Dead	PRJNA307199	SRR3083851	483	1964	218	Partial Response
+Hugo_Pt29	M1c	T	Lung	Pembrolizumab	NA	N	NA	NA	269	NA	Dead	PRJNA307199	SRR3083876	244	1245	127	Progressive Disease
+Hugo_Pt30	M1c	T	Bowel (rectum)	Pembrolizumab	NA	N	NA	NA	100	NA	Dead	PRJNA343789	SRR4289728	565	2463	322	Progressive Disease
+Hugo_Pt31	M1c	T	Bowel (sigmoid colon)	Pembrolizumab	NA	N	NA	NA	704	704	Alive	PRJNA343789	SRR4289730	621	3710	388	Progressive Disease
+Hugo_Pt32	M1c	T	Subcutaneous (abdomen)	Pembrolizumab	NA	N	NA	NA	171	NA	Dead	PRJNA343789	SRR4289732	261	1482	156	Progressive Disease
+Hugo_Pt33	M1a	T	Subcutaneous (groin)	Nivolumab	NA	Y	NA	NA	2177	2177	Alive	PRJNA343789	SRR4289734	668	3351	389	Complete Response
+Hugo_Pt34	M1c	T	Subcutaneous (abdomen)	Pembrolizumab	NA	Y	NA	NA	418	418	Alive	PRJNA343789	SRR4289736	90	412	68	Complete Response
+Hugo_Pt35	M1c	T	Subcutaneous (flank)	Pembrolizumab	NA	Y	NA	NA	427	427	Alive	PRJNA343789	SRR4289738	313	2000	198	Partial Response
+Hugo_Pt36	M1a	T	Lymph Node (axilla)	Nivolumab	NA	N	NA	NA	837	NA	Dead	PRJNA343789	SRR4289740	73	249	43	Progressive Disease
+Hugo_Pt37	M1c	T	Bowel (small)	Pembrolizumab	NA	Y	NA	NA	364	364	Alive	PRJNA343789	SRR4289742	557	3632	191	Partial Response
+Hugo_Pt38	M1c	T	Lymph Node (cervical)	Pembrolizumab	NA	Y	NA	NA	448	448	Alive	PRJNA343789	SRR4289744	81	517	7	Partial Response
+Hugo_Pt1	M1b	N	Blood	Pembrolizumab	NA	N	NA	NA	607	NA	Dead	PRJNA307199	SRR3083867	NA	NA	NA	Progressive Disease
+Hugo_Pt2	M1c	N	Blood	Pembrolizumab	NA	Y	NA	NA	927	927	Alive	PRJNA307199	SRR3083840	NA	NA	NA	Partial Response
+Hugo_Pt3	M1c	N	Blood	Pembrolizumab	NA	Y	NA	NA	691	NA	Dead	PRJNA307199	SRR3083842	NA	NA	NA	Partial Response
+Hugo_Pt4	M1c	N	Blood	Pembrolizumab	NA	Y	NA	NA	948	948	Alive	PRJNA307199	SRR3083838	NA	NA	NA	Partial Response
+Hugo_Pt5	M1c	N	Blood	Pembrolizumab	NA	Y	NA	NA	439	439	Alive	PRJNA307199	SRR3083858	NA	NA	NA	Partial Response
+Hugo_Pt6	M1c	N	Blood	Pembrolizumab	NA	Y	NA	NA	882	882	Alive	PRJNA307199	SRR3083864	NA	NA	NA	Partial Response
+Hugo_Pt7	M1c	N	Blood	Pembrolizumab	NA	N	NA	NA	662	NA	Dead	PRJNA307199	SRR3083871	NA	NA	NA	Progressive Disease
+Hugo_Pt8	M1a	N	Blood	Pembrolizumab	NA	Y	NA	NA	NA	NA	Alive	PRJNA343789	SRR4289714	NA	NA	NA	Complete Response
+Hugo_Pt9	III	N	Blood	Pembrolizumab	NA	Y	NA	NA	1054	1054	Alive	PRJNA307199	SRR3083850	NA	NA	NA	Complete Response
+Hugo_Pt10	M1a	N	Blood	Pembrolizumab	NA	N	NA	NA	387	387	Alive	PRJNA343789	SRR4289716	NA	NA	NA	Progressive Disease
+Hugo_Pt11	M1c	N	Blood	Pembrolizumab	NA	N	NA	NA	467	NA	Dead	PRJNA343789	SRR4289718	NA	NA	NA	Progressive Disease
+Hugo_Pt12	M1c	N	Blood	Pembrolizumab	NA	N	NA	NA	327	NA	Dead	PRJNA307199	SRR3083883	NA	NA	NA	Progressive Disease
+Hugo_Pt13	M1c	N	Blood	Pembrolizumab	NA	Y	NA	NA	917	917	Alive	PRJNA307199	SRR3083856	NA	NA	NA	Complete Response
+Hugo_Pt14	M1c	N	Blood	Pembrolizumab	NA	N	NA	NA	54	54	Alive	PRJNA307199	SRR3083869	NA	NA	NA	Progressive Disease
+Hugo_Pt15	M1b	N	Blood	Pembrolizumab	NA	Y	NA	NA	980	NA	Dead	PRJNA307199	SRR3083846	NA	NA	NA	Partial Response
+Hugo_Pt16	M1b	N	Blood	Pembrolizumab	NA	N	NA	NA	186	NA	Dead	PRJNA343789	SRR4289720	NA	NA	NA	Progressive Disease
+Hugo_Pt17	M1a	N	Blood	Pembrolizumab	NA	N	NA	NA	953	NA	Dead	PRJNA343789	SRR4289722	NA	NA	NA	Progressive Disease
+Hugo_Pt18	M1c	N	Blood	Pembrolizumab	NA	Y	NA	NA	1081	1081	Alive	PRJNA307199	SRR3083860	NA	NA	NA	Partial Response
+Hugo_Pt19	M1c	N	Blood	Pembrolizumab	NA	Y	NA	NA	1060	1060	Alive	PRJNA307199	SRR3083848	NA	NA	NA	Partial Response
+Hugo_Pt20	M1c	N	Blood	Pembrolizumab	NA	N	NA	NA	337	NA	Dead	PRJNA307199	SRR3083873	NA	NA	NA	Progressive Disease
+Hugo_Pt21	M1b	N	Blood	Pembrolizumab	NA	Y	NA	NA	945	NA	Dead	PRJNA307199	SRR3083862	NA	NA	NA	Partial Response
+Hugo_Pt22	M1c	N	Blood	Pembrolizumab	NA	N	NA	NA	182	NA	Dead	PRJNA307199	SRR3083879	NA	NA	NA	Progressive Disease
+Hugo_Pt23	M1c	N	Blood	Pembrolizumab	NA	N	NA	NA	103	NA	Dead	PRJNA307199	SRR3083875	NA	NA	NA	Progressive Disease
+Hugo_Pt24	M1c	N	Blood	Pembrolizumab	NA	Y	NA	NA	974	NA	Dead	PRJNA307199	SRR3083854	NA	NA	NA	Partial Response
+Hugo_Pt25	M1c	N	Blood	Pembrolizumab	NA	N	NA	NA	262	NA	Dead	PRJNA307199	SRR3083881	NA	NA	NA	Progressive Disease
+Hugo_Pt26	M1c	N	Blood	Pembrolizumab	NA	Y	NA	NA	1336	1336	Alive	PRJNA307199	SRR3083844	NA	NA	NA	Complete Response
+Hugo_Pt27	M1c	N	Blood	Pembrolizumab	NA	Y	NA	NA	548	548	Alive	PRJNA343789	SRR4289724	NA	NA	NA	Complete Response
+Hugo_Pt28	M1c	N	Blood	Pembrolizumab	NA	Y	NA	NA	439	NA	Dead	PRJNA307199	SRR3083852	NA	NA	NA	Partial Response
+Hugo_Pt29	M1c	N	Blood	Pembrolizumab	NA	N	NA	NA	269	NA	Dead	PRJNA307199	SRR3083877	NA	NA	NA	Progressive Disease
+Hugo_Pt30	M1c	N	Blood	Pembrolizumab	NA	N	NA	NA	100	NA	Dead	PRJNA343789	SRR4289727	NA	NA	NA	Progressive Disease
+Hugo_Pt31	M1c	N	Blood	Pembrolizumab	NA	N	NA	NA	704	704	Alive	PRJNA343789	SRR4289729	NA	NA	NA	Progressive Disease
+Hugo_Pt32	M1c	N	Blood	Pembrolizumab	NA	N	NA	NA	171	NA	Dead	PRJNA343789	SRR4289731	NA	NA	NA	Progressive Disease
+Hugo_Pt33	M1a	N	Blood	Nivolumab	NA	Y	NA	NA	2177	2177	Alive	PRJNA343789	SRR4289733	NA	NA	NA	Complete Response
+Hugo_Pt34	M1c	N	Blood	Pembrolizumab	NA	Y	NA	NA	418	418	Alive	PRJNA343789	SRR4289735	NA	NA	NA	Complete Response
+Hugo_Pt35	M1c	N	Blood	Pembrolizumab	NA	Y	NA	NA	427	427	Alive	PRJNA343789	SRR4289737	NA	NA	NA	Partial Response
+Hugo_Pt36	M1a	N	Blood	Nivolumab	NA	N	NA	NA	837	NA	Dead	PRJNA343789	SRR4289739	NA	NA	NA	Progressive Disease
+Hugo_Pt37	M1c	N	Blood	Pembrolizumab	NA	Y	NA	NA	364	364	Alive	PRJNA343789	SRR4289741	NA	NA	NA	Partial Response
+Hugo_Pt38	M1c	N	Blood	Pembrolizumab	NA	Y	NA	NA	448	448	Alive	PRJNA343789	SRR4289743	NA	NA	NA	Partial Response
+SD6494	M1c	T	Bowel (small)	Ipilimumab 3 x2	N	NA	91	NA	256	NA	NA	PRJNA306070	SRR3341293	529	NA	NA	NA
+CRNR4941	M1c	N	Blood	Ipilimumab 10x20 then 3x1	N	NA	2630	NA	2630	2630	Alive	PRJNA306070	SRR3341196	29	NA	NA	NA
+SD7357	M1c	N	Blood	Ipilimumab 3 x4	N	NA	147	NA	730	NA	NA	PRJNA306070	SRR3341294	1028	NA	NA	NA
+SD7357	M1c	T	Breast	Ipilimumab 3 x4	N	NA	147	NA	730	NA	NA	PRJNA306070	SRR3341295	1028	NA	NA	NA
+CR9306	M1c	N	Blood	Ipilimumab 10x25	Y	NA	294	NA	1936	1936	Alive	PRJNA306070	SRR3341188	1304	NA	NA	NA
+CR9306	M1c	T	Bone (axial)	Ipilimumab 10x25	Y	NA	294	NA	1936	1936	Alive	PRJNA306070	SRR3341189	1304	NA	NA	NA
+SD5038	M1c	T	Subcutaneous (back)	Ipilimumab 10 x9	N	NA	168	NA	438	NA	NA	PRJNA306070	SRR3341285	245	NA	NA	NA
+SD5118	M1c	N	Blood	"Ipilimumab 10 x4 (09), 3 x3 (12)"	N	NA	168	NA	986	NA	NA	PRJNA306070	SRR3341286	39	NA	NA	NA
+SD5118	M1c	T	Bone (extremity)	"Ipilimumab 10 x4 (09), 3 x3 (12)"	N	NA	168	NA	986	NA	NA	PRJNA306070	SRR3341287	39	NA	NA	NA
+SD5934	M1c	N	Blood	Ipilimumab 10 x6	N	NA	98	NA	584	NA	NA	PRJNA306070	SRR3341288	112	NA	NA	NA
+SD5934	M1c	T	Subcutaneous (abdomen)	Ipilimumab 10 x6	N	NA	98	NA	584	NA	NA	PRJNA306070	SRR3341289	112	NA	NA	NA
+SD6336	M1c	T	Subcutaneous (gluteal)	Ipilimumab 10 x34	Y	NA	2520	NA	2520	2520	Alive	PRJNA306070	SRR3341291	256	NA	NA	NA
+SD6336	M1c	N	Blood	Ipilimumab 10 x34	Y	NA	2520	NA	2520	2520	Alive	PRJNA306070	SRR3341290	256	NA	NA	NA
+PR4091	M1a	N	Blood	Ipilimumab 3X4	Y	NA	2191	NA	2191	2191	Alive	PRJNA306070	SRR3341272	259	NA	NA	NA
+PR4077	M1c	T	NA	Ipilimumab 10X4	Y	NA	2212	NA	2228	2228	Alive	PRJNA306070	SRR3341271	1371	NA	NA	NA
+SD6494	M1c	N	Blood	Ipilimumab 3 x2	N	NA	91	NA	256	NA	NA	PRJNA306070	SRR3341292	529	NA	NA	NA
+SD5038	M1c	N	Blood	Ipilimumab 10 x9	N	NA	168	NA	438	NA	NA	PRJNA306070	SRR3341284	245	NA	NA	NA
+PR4046	M1a	T	Lymph Node	Ipilimumab 10X5	Y	NA	767	NA	767	767	Alive	PRJNA306070	SRR3341269	106	NA	NA	NA
+PR4035	M1c	T	Subcutaneous	Ipilimumab 3X6	Y	NA	1526	NA	1534	1534	Alive	PRJNA306070	SRR3341267	485	NA	NA	NA
+SD1494	M1c	N	Blood	Ipilimumab 3 x4	Y	NA	357	NA	730	730	Alive	PRJNA306070	SRR3341278	858	NA	NA	NA
+SD0346	M1b	T	Subcutaneous (axilla)	Ipilimumab+dacarbazine 10 x3 +dacarbazinex6	Y	NA	476	NA	1059	NA	NA	PRJNA306070	SRR3341277	540	NA	NA	NA
+PR4092	M1a	T	Lymph Node	Ipilimumab 10X4	Y	NA	2205	NA	2228	2228	Alive	PRJNA306070	SRR3341275	1108	NA	NA	NA
+SD0346	M1b	N	Blood	Ipilimumab+dacarbazine 10 x3 +dacarbazinex6	Y	NA	476	NA	1059	NA	NA	PRJNA306070	SRR3341276	540	NA	NA	NA
+PR4092	M1a	N	Blood	Ipilimumab 10X4	Y	NA	2205	NA	2228	2228	Alive	PRJNA306070	SRR3341274	1108	NA	NA	NA
+NR9765	M1b	T	Lymph Node (inguinal)	Ipilimumab 3x4 then	N	NA	154	NA	767	NA	NA	PRJNA306070	SRR3341261	70	NA	NA	NA
+PR4091	M1a	T	Skin	Ipilimumab 3X4	Y	NA	2191	NA	2191	2191	Alive	PRJNA306070	SRR3341273	259	NA	NA	NA
+NR9705	M1c	T	Subcutaneous (chestwall)	Ipilimumab 3x4	N	NA	203	NA	438	NA	NA	PRJNA306070	SRR3341259	49	NA	NA	NA
+PR4077	M1c	N	Blood	Ipilimumab 10X4	Y	NA	2212	NA	2228	2228	Alive	PRJNA306070	SRR3341270	1371	NA	NA	NA
+NR9521	M1b	T	Subcutaneous (upper extremity)	Ipilimumab 3x4	N	NA	84	NA	986	NA	NA	PRJNA306070	SRR3341257	1026	NA	NA	NA
+SD2056	M1b	T	Lung	Ipilimumab 10 x17	Y	NA	1424	NA	1424	1424	Alive	PRJNA306070	SRR3341283	115	NA	NA	NA
+NR9449	M1c	T	Bowel (small)	Ipilimumab 3x4	N	NA	70	NA	219	NA	NA	PRJNA306070	SRR3341255	278	NA	NA	NA
+SD2051	M1c	T	Lymph Node (inguinal)	Ipilimumab+vemurafenib 3 x5 +vemurafenib	N	NA	112	NA	292	NA	NA	PRJNA306070	SRR3341281	39	NA	NA	NA
+SD2056	M1b	N	Blood	Ipilimumab 10 x17	Y	NA	1424	NA	1424	1424	Alive	PRJNA306070	SRR3341282	115	NA	NA	NA
+SD1494	M1c	T	Brain	Ipilimumab 3 x4	Y	NA	357	NA	730	730	Alive	PRJNA306070	SRR3341279	858	NA	NA	NA
+SD2051	M1c	N	Blood	Ipilimumab+vemurafenib 3 x5 +vemurafenib	N	NA	112	NA	292	NA	NA	PRJNA306070	SRR3341280	39	NA	NA	NA
+PR4035	M1c	N	Blood	Ipilimumab 3X6	Y	NA	1526	NA	1534	1534	Alive	PRJNA306070	SRR3341266	485	NA	NA	NA
+PR12117	M1c	T	Lymph Node (cervical)	Tremelimumab Tremelimumab 15x4	Y	NA	511	NA	584	NA	NA	PRJNA306070	SRR3341265	980	NA	NA	NA
+PR12117	M1c	N	Blood	Tremelimumab Tremelimumab 15x4	Y	NA	511	NA	584	NA	NA	PRJNA306070	SRR3341264	980	NA	NA	NA
+PR03803	IIIC	T	Subcutaneous (upper extremity)	Tremelimumab Tremelimumab 10x6	N	NA	1652	NA	2885	NA	Dead (unrelated to Melanoma)	PRJNA306070	SRR3341263	34	NA	NA	NA
+PR03803	IIIC	N	Blood	Tremelimumab Tremelimumab 10x6	N	NA	1652	NA	2885	NA	Dead (unrelated to Melanoma)	PRJNA306070	SRR3341262	34	NA	NA	NA
+NR8727	M1c	T	Lymph Node (axilla)	Ipilimumab 3 x4	N	NA	91	NA	146	NA	NA	PRJNA306070	SRR3341247	1	NA	NA	NA
+NR9765	M1b	N	Blood	Ipilimumab 3x4 then	N	NA	154	NA	767	NA	NA	PRJNA306070	SRR3341260	70	NA	NA	NA
+NR6721	M1a	T	Subcutaneous (chestwall)	Ipilimumab 10x4	N	NA	21	NA	292	NA	NA	PRJNA306070	SRR3341243	98	NA	NA	NA
+NR6721	M1a	N	Blood	Ipilimumab 10x4	N	NA	21	NA	292	NA	NA	PRJNA306070	SRR3341242	98	NA	NA	NA
+NR6689	M1c	T	Brain	Ipilimumab 3X4	N	NA	77	NA	438	NA	NA	PRJNA306070	SRR3341241	3	NA	NA	NA
+NR9705	M1c	N	Blood	Ipilimumab 3x4	N	NA	203	NA	438	NA	NA	PRJNA306070	SRR3341258	49	NA	NA	NA
+NR9521	M1b	N	Blood	Ipilimumab 3x4	N	NA	84	NA	986	NA	NA	PRJNA306070	SRR3341256	1026	NA	NA	NA
+PR4046	M1a	N	Blood	Ipilimumab 10X5	Y	NA	767	NA	767	767	Alive	PRJNA306070	SRR3341268	106	NA	NA	NA
+NR9449	M1c	N	Blood	Ipilimumab 3x4	N	NA	70	NA	219	NA	NA	PRJNA306070	SRR3341254	278	NA	NA	NA
+NR9341	M1a	N	Blood	Ipilimumab 3 x4	N	NA	98	NA	365	NA	NA	PRJNA306070	SRR3341250	19	NA	NA	NA
+NR8815	M1b	N	Blood	Ipilimumab 3x4	N	NA	63	NA	438	NA	NA	PRJNA306070	SRR3341248	1625	NA	NA	NA
+NR8727	M1c	N	Blood	Ipilimumab 3 x4	N	NA	91	NA	146	NA	NA	PRJNA306070	SRR3341246	1	NA	NA	NA
+NR4810	M1c	N	Blood	Ipilimumab 3 x4	N	NA	84	NA	146	NA	NA	PRJNA306070	SRR3341234	307	NA	NA	NA
+NR6842	M1c	T	Lymph Node (axilla)	Ipilimumab 3x4 then 3x3	N	NA	84	NA	292	NA	NA	PRJNA306070	SRR3341245	3	NA	NA	NA
+NR4083	M1c	T	NA	Ipilimumab 3X4	N	NA	73	NA	73	NA	NA	PRJNA306070	SRR3341231	218	NA	NA	NA
+NR6842	M1c	N	Blood	Ipilimumab 3x4 then 3x3	N	NA	84	NA	292	NA	NA	PRJNA306070	SRR3341244	3	NA	NA	NA
+NR4045	M1c	T	Bone (extremity)	Ipilimumab 3x4	N	NA	77	NA	621	NA	NA	PRJNA306070	SRR3341229	330	NA	NA	NA
+NR4045	M1c	N	Blood	Ipilimumab 3x4	N	NA	77	NA	621	NA	NA	PRJNA306070	SRR3341228	330	NA	NA	NA
+NR9445	M1c	T	Subcutaneous (abdomen)	Ipilimumab+vemurafenib 3x3+vem	N	NA	56	NA	73	NA	NA	PRJNA306070	SRR3341253	250	NA	NA	NA
+NR9445	M1c	N	Blood	Ipilimumab+vemurafenib 3x3+vem	N	NA	56	NA	73	NA	NA	PRJNA306070	SRR3341252	250	NA	NA	NA
+NR9341	M1a	T	Skin	Ipilimumab 3 x4	N	NA	98	NA	365	NA	NA	PRJNA306070	SRR3341251	19	NA	NA	NA
+NR8815	M1b	T	Subcutaneous (chestwall)	Ipilimumab 3x4	N	NA	63	NA	438	NA	NA	PRJNA306070	SRR3341249	1625	NA	NA	NA
+NR4810	M1c	T	Bowel (small)	Ipilimumab 3 x4	N	NA	84	NA	146	NA	NA	PRJNA306070	SRR3341235	307	NA	NA	NA
+NR3156	M1b	T	Subcutaneous (gluteal)	Ipilimumab 3 x4	N	NA	77	NA	402	NA	NA	PRJNA306070	SRR3341223	2	NA	NA	NA
+NR4631	M1c	T	Brain	Ipilimumab 3x4	N	NA	91	NA	183	NA	NA	PRJNA306070	SRR3341233	1116	NA	NA	NA
+NR4631	M1c	N	Blood	Ipilimumab 3x4	N	NA	91	NA	183	NA	NA	PRJNA306070	SRR3341232	1116	NA	NA	NA
+NR4083	M1c	N	Blood	Ipilimumab 3X4	N	NA	73	NA	73	NA	NA	PRJNA306070	SRR3341230	218	NA	NA	NA
+NR4018	M1c	T	Skin	Ipilimumab 10X4	N	NA	77	NA	110	NA	NA	PRJNA306070	SRR3341227	114	NA	NA	NA
+NR6689	M1c	N	Blood	Ipilimumab 3X4	N	NA	77	NA	438	NA	NA	PRJNA306070	SRR3341240	3	NA	NA	NA
+LSDNR9298	M1c	N	Blood	Ipilimumab 3x4	N	NA	1519	NA	1534	1534	Alive	PRJNA306070	SRR3341216	342	NA	NA	NA
+NR5784	M1c	T	Lymph Node (axilla)	Ipilimumab 10 x4	N	NA	77	NA	183	NA	NA	PRJNA306070	SRR3341239	3	NA	NA	NA
+NR5784	M1c	N	Blood	Ipilimumab 10 x4	N	NA	77	NA	183	NA	NA	PRJNA306070	SRR3341238	3	NA	NA	NA
+NR4949	M1c	N	Blood	Ipilimumab 10 x4	N	NA	161	NA	256	NA	NA	PRJNA306070	SRR3341236	484	NA	NA	NA
+LSDNR1650	M1c	N	Blood	Ipilimumab 3x7	N	NA	511	NA	986	NA	NA	PRJNA306070	SRR3341212	42	NA	NA	NA
+LSDNR1120	M1a	T	Lymph Node (axilla)	Ipilimumab 10x13	N	NA	1680	NA	1680	1680	Alive	PRJNA306070	SRR3341211	198	NA	NA	NA
+NR4949	M1c	T	Brain	Ipilimumab 10 x4	N	NA	161	NA	256	NA	NA	PRJNA306070	SRR3341237	484	NA	NA	NA
+NR2137	M1c	T	Brain	Ipilimumab 3x4	N	NA	56	NA	292	NA	NA	PRJNA306070	SRR3341221	598	NA	NA	NA
+NR2137	M1c	N	Blood	Ipilimumab 3x4	N	NA	56	NA	292	NA	NA	PRJNA306070	SRR3341220	598	NA	NA	NA
+LSD4744	M1c	T	NA	Ipilimumab 3x7	Y	NA	560	NA	767	767	Alive	PRJNA306070	SRR3341207	1037	NA	NA	NA
+NR1867	M1c	T	Lymph Node (inguinal)	Ipilimumab 3 x4	N	NA	161	NA	548	NA	NA	PRJNA306070	SRR3341219	28	NA	NA	NA
+NR1867	M1c	N	Blood	Ipilimumab 3 x4	N	NA	161	NA	548	NA	NA	PRJNA306070	SRR3341218	28	NA	NA	NA
+LSD4691	M1c	T	Bone (spine)	Ipilimumab 3x14	Y	NA	2666	NA	2666	2666	Alive	PRJNA306070	SRR3341205	491	NA	NA	NA
+LSD3484	M1c	T	Lymph Node	Ipilimumab 3x4	Y	NA	1059	NA	1059	1059	Alive	PRJNA306070	SRR3341203	495	NA	NA	NA
+LSDNR9298	M1c	T	Lymph Node	Ipilimumab 3x4	N	NA	1519	NA	1534	1534	Alive	PRJNA306070	SRR3341217	342	NA	NA	NA
+LSDNR3086	M1c	N	Blood	"Ipilimumab randomized 0.3, 3 or 10x4; 10x10"	N	NA	945	NA	950	NA	NA	PRJNA306070	SRR3341214	48	NA	NA	NA
+LSDNR3086	M1c	T	Skin	"Ipilimumab randomized 0.3, 3 or 10x4; 10x10"	N	NA	945	NA	950	NA	NA	PRJNA306070	SRR3341215	48	NA	NA	NA
+LSDNR1650	M1c	T	Bone (pubis)	Ipilimumab 3x7	N	NA	511	NA	986	NA	NA	PRJNA306070	SRR3341213	42	NA	NA	NA
+NR4018	M1C	N	Blood	Ipilimumab 10X4	N	NA	77	NA	110	NA	NA	PRJNA306070	SRR3341226	114	NA	NA	NA
+CRNR4941	M1c	T	Lymph Node (inguinal)	Ipilimumab 10x20 then 3x1	N	NA	2630	NA	2630	2630	Alive	PRJNA306070	SRR3341197	29	NA	NA	NA
+CRNR2472	M1c	T	Spleen	Ipilimumab randomized 3 vs 10 x4	N	NA	621	NA	621	621	Alive	PRJNA306070	SRR3341195	102	NA	NA	NA
+NR3549	M1c	T	Lymph Node (inguinal)	Ipilimumab 10 x3	N	NA	112	NA	183	NA	NA	PRJNA306070	SRR3341225	364	NA	NA	NA
+NR3549	M1c	N	Blood	Ipilimumab 10 x3	N	NA	112	NA	183	NA	NA	PRJNA306070	SRR3341224	364	NA	NA	NA
+CRNR0244	M1c	N	Blood	Ipilimumab 3x4	N	NA	763	NA	767	767	Alive	PRJNA306070	SRR3341192	211	NA	NA	NA
+CR9699	M1c	T	Lymph Node (portal)	Ipilimumab 10 x19	Y	NA	364	NA	1607	1607	Alive	PRJNA306070	SRR3341191	1188	NA	NA	NA
+CR9699	M1c	N	Blood	Ipilimumab 10 x19	Y	NA	364	NA	1607	1607	Alive	PRJNA306070	SRR3341190	1188	NA	NA	NA
+CR7623	M1c	T	Adrenal	Ipilimumab 10 x17	N	NA	329	NA	1461	1461	Alive	PRJNA306070	SRR3341187	99	NA	NA	NA
+NR3156	M1b	N	Blood	Ipilimumab 3 x4	N	NA	77	NA	402	NA	NA	PRJNA306070	SRR3341222	2	NA	NA	NA
+LSD6819	M1c	N	Blood	Ipilimumab 3x3	Y	NA	469	NA	1242	1242	Alive	PRJNA306070	SRR3341208	200	NA	NA	NA
+LSD4691	M1c	N	Blood	Ipilimumab 3x14	Y	NA	2666	NA	2666	2666	Alive	PRJNA306070	SRR3341204	491	NA	NA	NA
+LSD4744	M1c	N	Blood	Ipilimumab 3x7	Y	NA	560	NA	767	767	Alive	PRJNA306070	SRR3341206	1037	NA	NA	NA
+LSD2057	M1c	T	Brain	Ipilimumab 3x4	Y	NA	448	NA	1205	1205	Alive	PRJNA306070	SRR3341201	109	NA	NA	NA
+LSD3484	M1c	N	Blood	Ipilimumab 3x4	Y	NA	1059	NA	1059	1059	Alive	PRJNA306070	SRR3341202	495	NA	NA	NA
+LSD2057	M1c	N	Blood	Ipilimumab 3x4	Y	NA	448	NA	1205	1205	Alive	PRJNA306070	SRR3341200	109	NA	NA	NA
+LSD0167	M1c	T	Bowel (small)	Ipilimumab 3x3	Y	NA	980	NA	986	986	Alive	PRJNA306070	SRR3341199	152	NA	NA	NA
+LSD0167	M1c	N	Blood	Ipilimumab 3x3	Y	NA	980	NA	986	986	Alive	PRJNA306070	SRR3341198	152	NA	NA	NA
+LSDNR1120	M1a	N	Blood	Ipilimumab 10x13	N	NA	1680	NA	1680	1680	Alive	PRJNA306070	SRR3341210	198	NA	NA	NA
+CR22640	M1c	T	Lung	Ipilimumab 3x4	Y	NA	1512	NA	1571	1571	Alive	PRJNA306070	SRR3341177	192	NA	NA	NA
+CR1509	M1c	T	Subcutaneous (gluteal)	Ipilimumab 10 x14	Y	NA	504	NA	1644	1644	Alive	PRJNA306070	SRR3341175	344	NA	NA	NA
+LSD6819	M1c	T	Skin	Ipilimumab 3x3	Y	NA	469	NA	1242	1242	Alive	PRJNA306070	SRR3341209	200	NA	NA	NA
+CRNR2472	M1c	N	Blood	Ipilimumab randomized 3 vs 10 x4	N	NA	621	NA	621	621	Alive	PRJNA306070	SRR3341194	102	NA	NA	NA
+CRNR0244	M1c	T	Bowel (small)	Ipilimumab 3x4	N	NA	763	NA	767	767	Alive	PRJNA306070	SRR3341193	211	NA	NA	NA
+CR04885	IIIC	T	Subcutaneous (scalp)	Tremelimumab Tremelimumab 15x4	Y	NA	595	NA	767	767	Alive	PRJNA306070	SRR3341171	1875	NA	NA	NA
+CR0095	M1b	T	Lymph Node (inguinal)	Ipilimumab 10x22	Y	NA	455	NA	2082	2802	Alive	PRJNA306070	SRR3341169	198	NA	NA	NA
+CR04885	IIIC	N	Blood	Tremelimumab Tremelimumab 15x4	Y	NA	595	NA	767	767	Alive	PRJNA306070	SRR3341170	1875	NA	NA	NA
+CR0095	M1b	N	Blood	Ipilimumab 10x22	Y	NA	455	NA	2082	2082	Alive	PRJNA306070	SRR3341168	198	NA	NA	NA
+CR6161	M1b	N	Blood	Ipilimumab 3x4	Y	NA	950	NA	950	NA	Dead (unrelated to Melanoma)	PRJNA306070	SRR3341184	603	NA	NA	NA
+CR6126	M1b	T	Bone (extremity)	Ipilimumab 3x4	Y	NA	694	NA	694	694	Alive	PRJNA306070	SRR3341183	442	NA	NA	NA
+CR6126	M1b	N	Blood	Ipilimumab 3x4	Y	NA	694	NA	694	694	Alive	PRJNA306070	SRR3341182	442	NA	NA	NA
+CR4880	M1b	T	Lymph Node (inguinal)	Ipilimumab 10x16	Y	NA	413	NA	1972	1972	Alive	PRJNA306070	SRR3341181	527	NA	NA	NA
+CR4880	M1b	N	Blood	Ipilimumab 10x16	Y	NA	413	NA	1972	1972	Alive	PRJNA306070	SRR3341180	527	NA	NA	NA
+CR3665	M1b	T	Breast	Ipilimumab 3 x4	Y	NA	336	NA	986	986	Alive	PRJNA306070	SRR3341179	120	NA	NA	NA
+CR3665	M1b	N	Blood	Ipilimumab 3 x4	Y	NA	336	NA	986	986	Alive	PRJNA306070	SRR3341178	120	NA	NA	NA
+CR22640	M1c	N	Blood	Ipilimumab 3x4	Y	NA	1512	NA	1571	1571	Alive	PRJNA306070	SRR3341176	192	NA	NA	NA
+CR1509	M1c	N	Blood	Ipilimumab 10 x14	Y	NA	504	NA	1644	1644	Alive	PRJNA306070	SRR3341174	344	NA	NA	NA
+CR06670	IIIC	T	Subcutaneous (lower extremity)	Tremelimumab Tremelimumab 15x4	Y	NA	1176	NA	1351	NA	Dead (unrelated to Melanoma)	PRJNA306070	SRR3341173	315	NA	NA	NA
+CR06670	IIIC	N	Blood	Tremelimumab Tremelimumab 15x4	Y	NA	1176	NA	1351	NA	Dead (unrelated to Melanoma)	PRJNA306070	SRR3341172	315	NA	NA	NA
+CR7623	M1c	N	Blood	Ipilimumab 10 x17	N	NA	329	NA	1461	1461	Alive	PRJNA306070	SRR3341186	99	NA	NA	NA
+CR6161	M1b	T	Lymph Node (axilla)	Ipilimumab 3x4	Y	NA	950	NA	950	NA	Dead (unrelated to Melanoma)	PRJNA306070	SRR3341185	603	NA	NA	NA
+Mel21	IIIC	T	Lymph Node (inguinal)	Ipilimumab 3x4 then DC vaccine	NA	NA	NA	NA	660	660	Alive	PRJNA278450	SRR2673095	443	NA	79	Stable Disease
+Mel21	IIIC	T	Lymph Node (inguinal)	Ipilimumab 3x4 then DC vaccine	NA	NA	NA	NA	660	660	Alive	PRJNA278450	SRR2672913	NA	NA	NA	Stable Disease
+Mel21	IIIC	T	Subcutaneous (lower extremity)	Ipilimumab 3x4 then DC vaccine	NA	NA	NA	NA	660	660	Alive	PRJNA278450	SRR2672888	515	838	96	Stable Disease
+Mel21	IIIC	T	Subcutaneous (lower extremity)	Ipilimumab 3x4 then DC vaccine	NA	NA	NA	NA	660	660	Alive	PRJNA278450	SRR2672889	NA	NA	NA	Stable Disease
+Mel21	IIIC	T	Skin	Ipilimumab 3x4 then DC vaccine	NA	NA	NA	NA	660	660	Alive	PRJNA278450	SRR2673015	598	1099	111	Stable Disease
+Mel21	IIIC	T	Skin	Ipilimumab 3x4 then DC vaccine	NA	NA	NA	NA	660	660	Alive	PRJNA278450	SRR2673065	NA	NA	NA	Stable Disease
+Mel21	IIIC	T	Skin	Ipilimumab 3x4 then DC vaccine	NA	NA	NA	NA	660	660	Alive	PRJNA278450	SRR2673066	NA	NA	NA	Stable Disease
+Mel38	IIIC	T	Lymph Node (axilla)	Ipilimumab 3x4 then DC vaccine	N	NA	NA	NA	660	660	Alive	PRJNA278450	SRR2672991	NA	NA	NA	Progressive Disease
+Mel38	IIIC	T	Breast	Ipilimumab 3x4 then DC vaccine	N	NA	NA	NA	660	660	Alive	PRJNA278450	SRR2673115	247	402	48	Progressive Disease
+Mel38	IIIC	T	Breast	Ipilimumab 3x4 then DC vaccine	N	NA	NA	NA	660	660	Alive	PRJNA278450	SRR2673044	NA	NA	NA	Progressive Disease
+Mel38	IIIC	T	Subcutaneous (abdomen)	Ipilimumab 3x4 then DC vaccine	N	NA	NA	NA	660	660	Alive	PRJNA278450	SRR2672866	238	385	46	Progressive Disease
+Mel38	IIIC	T	Subcutaneous (abdomen)	Ipilimumab 3x4 then DC vaccine	N	NA	NA	NA	660	660	Alive	PRJNA278450	SRR2673094	NA	NA	NA	Progressive Disease
+Mel218	IIIC	T	Lymph Node	Ipilimumab 10 x14 then DC vaccine	Y	NA	2191	NA	2191	2191	Alive	PRJNA278450	SRR2672890	437	695	93	Complete Response
+Mel218	IIIC	T	Lymph Node	Ipilimumab 10 x14 then DC vaccine	Y	NA	2191	NA	2191	2191	Alive	PRJNA278450	SRR2673016	NA	NA	NA	Complete Response
+Mel21	IIIC	N	Blood	Ipilimumab 3x4 then DC vaccine	NA	NA	NA	NA	660	660	Alive	PRJNA278450	SRR2672887	NA	NA	NA	Stable Disease
+Mel218	IIIC	N	Blood	Ipilimumab 10 x14 then DC vaccine	Y	NA	2191	NA	2191	2191	Alive	PRJNA278450	SRR2672973	NA	NA	NA	Complete Response
+Mel38	IIIC	N	Blood	Ipilimumab 3x4 then DC vaccine	N	NA	NA	NA	660	660	Alive	PRJNA278450	SRR2672972	NA	NA	NA	Progressive Disease
+AL4602	IV	N	Blood	Pembrolizumab (10mg/kg q3wks)	NA	Y	252	252	252	252	NA	PRJNA293912	SRR2648102	NA	NA	NA	Stable Disease (Durable Clinical Benefit)
+AL4602	IV	T	Pleura	Pembrolizumab (10mg/kg q3wks)	NA	Y	252	252	252	252	NA	PRJNA293912	SRR2648103	244	341	148	Stable Disease (Durable Clinical Benefit)
+AU5884	IV	N	Blood	Pembrolizumab (10mg/kg q2wks)	NA	N	NA	54	NA	NA	NA	PRJNA293912	SRR2648104	NA	NA	NA	Progressive Disease
+AU5884	IV	T	Lung	Pembrolizumab (10mg/kg q2wks)	NA	N	NA	54	NA	NA	NA	PRJNA293912	SRR2648105	34	80	27	Progressive Disease
+BL3403	IV	N	Blood	Pembrolizumab (10mg/kg q2wks)	NA	N	195	195	NA	NA	NA	PRJNA293912	SRR2648106	NA	NA	NA	Stable Disease (No Clinical Benefit)
+BL3403	IV	T	Pleura	Pembrolizumab (10mg/kg q2wks)	NA	N	195	195	NA	NA	NA	PRJNA293912	SRR2648107	148	261	99	Stable Disease (No Clinical Benefit)
+CA9903	IV	N	Blood	Pembrolizumab (10mg/kg q3wks)	NA	Y	435	435	NA	NA	NA	PRJNA293912	SRR2648108	NA	NA	NA	Partial Response
+CA9903	IV	T	Lung	Pembrolizumab (10mg/kg q3wks)	NA	Y	435	435	NA	NA	NA	PRJNA293912	SRR2648109	324	494	226	Partial Response
+CU9061	IV	N	Blood	Pembrolizumab (2mg/kg q3wks)	NA		120	120	120	120	NA	PRJNA293912	SRR2648110	NA	NA	NA	Stable Disease
+CU9061	IV	T	Lymph Node	Pembrolizumab (2mg/kg q3wks)	NA		120	120	120	120	NA	PRJNA293912	SRR2648111	368	552	271	Stable Disease
+DI6359	IV	N	Blood	Pembrolizumab (10mg/kg q3wks)	NA	Y	294	294	294	294	NA	PRJNA293912	SRR2648112	NA	NA	NA	Partial Response
+DI6359	IV	T	Lymph Node	Pembrolizumab (10mg/kg q3wks)	NA	Y	294	294	294	294	NA	PRJNA293912	SRR2648113	228	326	215	Partial Response
+DM123062	IV	N	Blood	Pembrolizumab (10mg/kg q2wks)	NA	N	NA	57	NA	NA	NA	PRJNA293912	SRR2648114	NA	NA	NA	Progressive Disease
+DM123062	IV	T	Liver	Pembrolizumab (10mg/kg q2wks)	NA	N	NA	57	NA	NA	NA	PRJNA293912	SRR2648115	134	209	99	Progressive Disease
+FR9547	IV	N	Blood	Pembrolizumab (2mg/kg q3wks)	NA	Y	126	126	126	126	NA	PRJNA293912	SRR2648116	NA	NA	NA	Partial Response
+FR9547	IV	T	Subcutaneous	Pembrolizumab (2mg/kg q3wks)	NA	Y	126	126	126	126	NA	PRJNA293912	SRR2648117	290	441	208	Partial Response
+GR0134	IV	N	Blood	Pembrolizumab (10mg/kg q3wks)	NA	Y	249	249	NA	NA	NA	PRJNA293912	SRR2648118	NA	NA	NA	Partial Response
+GR0134	IV	T	Lung	Pembrolizumab (10mg/kg q3wks)	NA	Y	249	249	NA	NA	NA	PRJNA293912	SRR2648119	56	94	30	Partial Response
+GR4788	IV	N	Blood	Pembrolizumab (10mg/kg q2wks)	NA	N	NA	57	NA	NA	NA	PRJNA293912	SRR2648120	NA	NA	NA	Progressive Disease
+GR4788	IV	T	Bronchus	Pembrolizumab (10mg/kg q2wks)	NA	N	NA	57	NA	NA	NA	PRJNA293912	SRR2648121	170	255	51	Progressive Disease
+HE3202	IV	N	Blood	Pembrolizumab (10mg/kg q3wks)	NA	Y	441	441	441	441	NA	PRJNA293912	SRR2648122	NA	NA	NA	Partial Response
+HE3202	IV	T	Lymph Node	Pembrolizumab (10mg/kg q3wks)	NA	Y	441	441	441	441	NA	PRJNA293912	SRR2648123	746	1011	610	Partial Response
+JB112852	IV	N	Blood	Pembrolizumab (10mg/kg q2wks)	NA	N	NA	99	NA	NA	NA	PRJNA293912	SRR2648124	NA	NA	NA	Progressive Disease
+JB112852	IV	T	Lung	Pembrolizumab (10mg/kg q2wks)	NA	N	NA	99	NA	NA	NA	PRJNA293912	SRR2648125	190	341	118	Progressive Disease
+KA3947	IV	N	Blood	Pembrolizumab (10mg/kg q3wks)	NA	Y	243	243	NA	NA	NA	PRJNA293912	SRR2648126	NA	NA	NA	Stable Disease (Durable Clinical Benefit)
+KA3947	IV	T	Lymph Node	Pembrolizumab (10mg/kg q3wks)	NA	Y	243	243	NA	NA	NA	PRJNA293912	SRR2648127	302	426	114	Stable Disease (Durable Clinical Benefit)
+LO3793	IV	N	Blood	Pembrolizumab (2mg/kg q3wks)	NA	N	105	105	NA	NA	NA	PRJNA293912	SRR2648128	NA	NA	NA	Stable Disease (No Clinical Benefit)
+LO3793	IV	T	Lung	Pembrolizumab (2mg/kg q3wks)	NA	N	105	105	NA	NA	NA	PRJNA293912	SRR2648129	109	145	74	Stable Disease (No Clinical Benefit)
+LO5004	IV	N	Blood	Pembrolizumab (10mg/kg q2wks)	NA	N	189	189	NA	NA	NA	PRJNA293912	SRR2648130	NA	NA	NA	Stable Disease (No Clinical Benefit)
+LO5004	IV	T	Lung	Pembrolizumab (10mg/kg q2wks)	NA	N	189	189	NA	NA	NA	PRJNA293912	SRR2648131	79	140	87	Stable Disease (No Clinical Benefit)
+M4945	IV	N	Blood	Pembrolizumab (10mg/kg q2wks)	NA	Y	438	438	438	438	NA	PRJNA293912	SRR2648132	NA	NA	NA	Partial Response
+M4945	IV	T	Subcutaneous	Pembrolizumab (10mg/kg q2wks)	NA	Y	438	438	438	438	NA	PRJNA293912	SRR2648133	427	685	300	Partial Response
+MA7027	IV	N	Blood	Pembrolizumab (10mg/kg q2wks)	NA	N	NA	54	NA	NA	NA	PRJNA293912	SRR2648134	NA	NA	NA	Progressive Disease
+MA7027	IV	T	Lung	Pembrolizumab (10mg/kg q2wks)	NA	N	NA	54	NA	NA	NA	PRJNA293912	SRR2648135	292	396	90	Progressive Disease
+NI9507	IV	N	Blood	Pembrolizumab (10mg/kg q3wks)	NA	N	NA	57	NA	NA	NA	PRJNA293912	SRR2648136	NA	NA	NA	Progressive Disease
+NI9507	IV	T	Lung	Pembrolizumab (10mg/kg q3wks)	NA	N	NA	57	NA	NA	NA	PRJNA293912	SRR2648137	35	85	18	Progressive Disease
+R7495	IV	N	Blood	Pembrolizumab (2mg/kg q3wks)	NA	N	NA	42	NA	NA	NA	PRJNA293912	SRR2648138	NA	NA	NA	Progressive Disease
+R7495	IV	T	Liver	Pembrolizumab (2mg/kg q3wks)	NA	N	NA	42	NA	NA	NA	PRJNA293912	SRR2648139	122	199	83	Progressive Disease
+RH090935	IV	N	Blood	Pembrolizumab (10mg/kg q3wks)	NA	Y	312	312	312	312	NA	PRJNA293912	SRR2648140	NA	NA	NA	Partial Response
+RH090935	IV	T	Lymph Node	Pembrolizumab (10mg/kg q3wks)	NA	Y	312	312	312	312	NA	PRJNA293912	SRR2648141	201	305	135	Partial Response
+RI1933	IV	N	Blood	Pembrolizumab (10mg/kg q3wks)	NA	Y	498	498	498	498	NA	PRJNA293912	SRR2648142	NA	NA	NA	Partial Response
+RI1933	IV	T	Lymph Node	Pembrolizumab (10mg/kg q3wks)	NA	Y	498	498	498	498	NA	PRJNA293912	SRR2648143	473	622	228	Partial Response
+RO3338	IV	N	Blood	Pembrolizumab (10mg/kg q3wks)	NA	N	NA	63	NA	NA	NA	PRJNA293912	SRR2648144	NA	NA	NA	Progressive Disease
+RO3338	IV	T	Lung	Pembrolizumab (10mg/kg q3wks)	NA	N	NA	63	NA	NA	NA	PRJNA293912	SRR2648145	106	167	112	Progressive Disease
+SA9755	IV	N	Blood	Pembrolizumab (10mg/kg q3wks)	NA	Y	252	252	252	252	NA	PRJNA293912	SRR2648146	NA	NA	NA	Partial Response
+SA9755	IV	T	Adrenal	Pembrolizumab (10mg/kg q3wks)	NA	Y	252	252	252	252	NA	PRJNA293912	SRR2648147	1192	1732	576	Partial Response
+SB010944	IV	N	Blood	Pembrolizumab (10mg/kg q3wks)	NA	Y	819	819	819	819	NA	PRJNA293912	SRR2648148	NA	NA	NA	Partial Response
+SB010944	IV	T	Lung	Pembrolizumab (10mg/kg q3wks)	NA	Y	819	819	819	819	NA	PRJNA293912	SRR2648149	198	216	80	Partial Response
+SC0899	IV	N	Blood	Pembrolizumab (10mg/kg q3wks)	NA	Y	378	378	378	378	NA	PRJNA293912	SRR2648150	NA	NA	NA	Partial Response
+SC0899	IV	T	Lung	Pembrolizumab (10mg/kg q3wks)	NA	Y	378	378	378	378	NA	PRJNA293912	SRR2648151	296	450	191	Partial Response
+SC6470	IV	N	Blood	Pembrolizumab (10mg/kg q2wks)	NA	Y	249	249	NA	NA	NA	PRJNA293912	SRR2648152	NA	NA	NA	Stable Disease (Durable Clinical Benefit)
+SC6470	IV	T	Lung	Pembrolizumab (10mg/kg q2wks)	NA	Y	249	249	NA	NA	NA	PRJNA293912	SRR2648153	185	292	100	Stable Disease (Durable Clinical Benefit)
+SR070761	IV	N	Blood	Pembrolizumab (10mg/kg q2wks)	NA	N	NA	102	NA	NA	NA	PRJNA293912	SRR2648154	NA	NA	NA	Progressive Disease
+SR070761	IV	T	Lung	Pembrolizumab (10mg/kg q2wks)	NA	N	NA	102	NA	NA	NA	PRJNA293912	SRR2648155	184	328	50	Progressive Disease
+TU0428	IV	N	Blood	Pembrolizumab (10mg/kg q3wks)	NA	N	NA	63	NA	NA	NA	PRJNA293912	SRR2648156	NA	NA	NA	Progressive Disease
+TU0428	IV	T	Lung	Pembrolizumab (10mg/kg q3wks)	NA	N	NA	63	NA	NA	NA	PRJNA293912	SRR2648157	626	992	446	Progressive Disease
+VA1330	IV	N	Blood	Pembrolizumab (10mg/kg q3wks)	NA	N	123	123	NA	NA	NA	PRJNA293912	SRR2648158	NA	NA	NA	Stable Disease (No Clinical Benefit)
+VA1330	IV	T	Lung	Pembrolizumab (10mg/kg q3wks)	NA	N	123	123	NA	NA	NA	PRJNA293912	SRR2648159	22	88	11	Stable Disease (No Clinical Benefit)
+VA7859	IV	N	Blood	Pembrolizumab (10mg/kg q3wks)	NA	N	189	189	NA	NA	NA	PRJNA293912	SRR2648160	NA	NA	NA	Stable Disease (No Clinical Benefit)
+VA7859	IV	T	Lung	Pembrolizumab (10mg/kg q3wks)	NA	N	189	189	NA	NA	NA	PRJNA293912	SRR2648161	11	45	8	Stable Disease (No Clinical Benefit)
+WA7899	IV	N	Blood	Pembrolizumab (10mg/kg q3wks)	NA	N	NA	57	NA	NA	NA	PRJNA293912	SRR2648162	NA	NA	NA	Progressive Disease
+WA7899	IV	T	Lung	Pembrolizumab (10mg/kg q3wks)	NA	N	NA	57	NA	NA	NA	PRJNA293912	SRR2648163	127	190	58	Progressive Disease
+Y2087	IV	N	Blood	Pembrolizumab (10mg/kg q3wks)	NA	Y	249	249	NA	NA	NA	PRJNA293912	SRR2648164	NA	NA	NA	Stable Disease (Durable Clinical Benefit)
+Y2087	IV	T	Pleura	Pembrolizumab (10mg/kg q3wks)	NA	Y	249	249	NA	NA	NA	PRJNA293912	SRR2648165	507	914	358	Stable Disease (Durable Clinical Benefit)
+ZA6505	IV	N	Blood	Pembrolizumab (10mg/kg q3wks)	NA	N	NA	57	NA	NA	NA	PRJNA293912	SRR2648166	NA	NA	NA	Progressive Disease
+ZA6505	IV	T	Liver	Pembrolizumab (10mg/kg q3wks)	NA	N	NA	57	NA	NA	NA	PRJNA293912	SRR2648167	378	558	209	Progressive Disease
+ZA6965	IV	N	Blood	Pembrolizumab (2mg/kg q3wks)	NA	Y	132	132	132	132	NA	PRJNA293912	SRR2648168	NA	NA	NA	Partial Response
+ZA6965	IV	T	Lymph Node	Pembrolizumab (2mg/kg q3wks)	NA	Y	132	132	132	132	NA	PRJNA293912	SRR2648169	223	342	111	Partial Response
+Pat02	M1c	T	NA	Ipilimumab	Y	NA	NA	538	1632	1632	Alive	PRJNA82745	SRR2689710	216	378	244	response (SD)
+Pat03	M1c	T	NA	Ipilimumab	N	NA	NA	76	100	NA	Dead	PRJNA82745	SRR2587785	362	602	475	nonresponse (PD)
+Pat04	M1b	T	NA	Ipilimumab	Y	NA	NA	646	987	987	Alive	PRJNA82745	SRR2780275	326	527	568	response (PR)
+Pat06	M1c	T	NA	Ipilimumab	N	NA	NA	77	161	NA	Dead	PRJNA82745	SRR2774280	147	295	382	nonresponse (PD)
+Pat07	M0	N	NA	Ipilimumab	Y	NA	NA	721	1050	1050	Alive	PRJNA82745	SRR2701132	NA	NA	NA	response (SD)
+Pat08	M1c	T	NA	Ipilimumab	N	NA	NA	73	140	NA	Dead	PRJNA82745	SRR2778361	244	456	670	nonresponse (PD)
+Pat100	M1c	N	NA	Ipilimumab	N	NA	NA	111	360	NA	Dead	PRJNA82745	SRR2743785	NA	NA	NA	nonresponse (PD)
+Pat101	M1c	N	NA	Ipilimumab	N	NA	NA	77	288	NA	Dead	PRJNA82745	SRR2587681	NA	NA	NA	nonresponse (PD)
+Pat103	M1c	N	NA	Ipilimumab	Y	NA	NA	969	1048	NA	Dead	PRJNA82745	SRR2761780	NA	NA	NA	response (PR)
+Pat104	M1c	N	NA	Ipilimumab	N	NA	NA	237	237	NA	Dead	PRJNA82745	SRR2763711	NA	NA	NA	nonresponse (SD)
+Pat105	III	N	NA	Ipilimumab	Y	NA	NA	690	1047	1047	Alive	PRJNA82745	SRR2895608	NA	NA	NA	response (PR)
+Pat106	M1b	N	NA	Ipilimumab	N	NA	NA	137	250	NA	Dead	PRJNA82745	SRR2712107	NA	NA	NA	nonresponse (PD)
+Pat109	M1b	N	NA	Ipilimumab	N	NA	NA	19	83	NA	Dead	PRJNA82745	SRR2762344	NA	NA	NA	nonresponse (PD)
+Pat11	M1c	N	NA	Ipilimumab	N	NA	NA	126	790	790	Alive	PRJNA82745	SRR2779120	NA	NA	NA	long-survival (PD)
+Pat110	M1b	N	NA	Ipilimumab	N	NA	NA	73	320	NA	Dead	PRJNA82745	SRR2698835	NA	NA	NA	nonresponse (PD)
+Pat113	M1c	N	NA	Ipilimumab	Y	NA	NA	52	301	NA	Dead	PRJNA82745	SRR2757063	NA	NA	NA	response (PR)
+Pat115	M1c	N	NA	Ipilimumab	N	NA	NA	74	145	NA	Dead	PRJNA82745	SRR2779751	NA	NA	NA	nonresponse (PD)
+Pat117	M1c	N	NA	Ipilimumab	Y	NA	NA	182	914	914	Alive	PRJNA82745	SRR2779541	NA	NA	NA	response (PR)
+Pat118	M1c	T	NA	Ipilimumab	N	NA	NA	120	313	NA	Dead	PRJNA82745	SRR2772780	113	192	137	nonresponse (PD)
+Pat119	III	N	NA	Ipilimumab	N	NA	NA	108	808	808	Alive	PRJNA82745	SRR2724351	NA	NA	NA	long-survival (PD)
+Pat121	M1c	N	NA	Ipilimumab	N	NA	NA	84	122	NA	Dead	PRJNA82745	SRR2747654	NA	NA	NA	nonresponse (PD)
+Pat123	M1c	T	NA	Ipilimumab	Y	NA	NA	544	853	NA	Dead	PRJNA82745	SRR2779596	496	877	856	response (SD)
+Pat124	M1b	N	NA	Ipilimumab	N	NA	NA	67	146	NA	Dead	PRJNA82745	SRR2767000	NA	NA	NA	nonresponse (PD)
+Pat126	M1b	T	NA	Ipilimumab	Y	NA	NA	187	641	641	Alive	PRJNA82745	SRR2675767	370	644	649	response (PR)
+Pat127	M1c	N	NA	Ipilimumab	N	NA	NA	84	332	NA	Dead	PRJNA82745	SRR2776720	NA	NA	NA	nonresponse (PD)
+Pat128	M1c	N	NA	Ipilimumab	N	NA	NA	81	113	NA	Dead	PRJNA82745	SRR2663870	NA	NA	NA	nonresponse (PD)
+Pat129	M1b	N	NA	Ipilimumab	N	NA	NA	68	539	539	Alive	PRJNA82745	SRR2710529	NA	NA	NA	nonresponse (PD)
+Pat13	III	N	NA	Ipilimumab	N	NA	NA	104	732	NA	Dead	PRJNA82745	SRR2780020	NA	NA	NA	long-survival (PD)
+Pat130	M1c	N	NA	Ipilimumab	N	NA	NA	17	45	NA	Dead	PRJNA82745	SRR2662805	NA	NA	NA	nonresponse (PD)
+Pat131	M1c	N	NA	Ipilimumab	N	NA	NA	195	257	NA	Dead	PRJNA82745	SRR2693364	NA	NA	NA	nonresponse (SD)
+Pat132	M1c	N	NA	Ipilimumab	Y	NA	NA	187	676	676	Alive	PRJNA82745	SRR2660402	NA	NA	NA	response (PR)
+Pat133	M1b	N	NA	Ipilimumab	N	NA	NA	134	542	NA	Dead	PRJNA82745	SRR2724330	NA	NA	NA	nonresponse (PD)
+Pat135	M1c	N	NA	Ipilimumab	N	NA	NA	73	81	NA	Dead	PRJNA82745	SRR2765463	NA	NA	NA	nonresponse (PD)
+Pat138	M1c	N	NA	Ipilimumab	Y	NA	NA	581	1478	NA	Dead	PRJNA82745	SRR2766353	NA	NA	NA	response (SD)
+Pat139	M1c	N	NA	Ipilimumab	N	NA	NA	46	99	NA	Dead	PRJNA82745	SRR2680371	NA	NA	NA	nonresponse (PD)
+Pat14	M1c	N	NA	Ipilimumab	N	NA	NA	84	163	NA	Dead	PRJNA82745	SRR2722193	NA	NA	NA	nonresponse (PD)
+Pat140	M1c	N	NA	Ipilimumab	N	NA	NA	114	492	NA	Dead	PRJNA82745	SRR2775071	NA	NA	NA	nonresponse (PD)
+Pat143	M1c	N	NA	Ipilimumab	N	NA	NA	90	153	NA	Dead	PRJNA82745	SRR2587942	NA	NA	NA	nonresponse (PD)
+Pat147	M1a	N	NA	Ipilimumab	N	NA	NA	120	224	NA	Dead	PRJNA82745	SRR2768007	NA	NA	NA	nonresponse (PD)
+Pat148	M1c	N	NA	Ipilimumab	N	NA	NA	48	84	NA	Dead	PRJNA82745	SRR2741956	NA	NA	NA	nonresponse (PD)
+Pat15	M1c	T	NA	Ipilimumab	N	NA	NA	31	50	NA	Dead	PRJNA82745	SRR2669446	237	384	697	nonresponse (PD)
+Pat151	M1c	N	NA	Ipilimumab	N	NA	NA	106	204	NA	Dead	PRJNA82745	SRR2891891	NA	NA	NA	nonresponse (PD)
+Pat157	M1c	N	NA	Ipilimumab	N	NA	NA	53	86	NA	Dead	PRJNA82745	SRR2769007	NA	NA	NA	nonresponse (X)
+Pat159	M1b	N	NA	Ipilimumab	N	NA	NA	100	842	842	Alive	PRJNA82745	SRR2755533	NA	NA	NA	long-survival (PD)
+Pat16	M1b	N	NA	Ipilimumab	N	NA	NA	84	811	NA	Dead	PRJNA82745	SRR2768667	NA	NA	NA	long-survival (PD)
+Pat160	M1c	N	NA	Ipilimumab	N	NA	NA	81	152	NA	Dead	PRJNA82745	SRR2776026	NA	NA	NA	nonresponse (PD)
+Pat162	M1c	N	NA	Ipilimumab	N	NA	NA	78	211	NA	Dead	PRJNA82745	SRR2744628	NA	NA	NA	nonresponse (PD)
+Pat163	M1c	N	NA	Ipilimumab	N	NA	NA	76	749	749	Alive	PRJNA82745	SRR2673444	NA	NA	NA	long-survival (PD)
+Pat165	M1c	N	NA	Ipilimumab	N	NA	NA	95	115	NA	Dead	PRJNA82745	SRR2772456	NA	NA	NA	nonresponse (PD)
+Pat166	M1c	N	NA	Ipilimumab	N	NA	NA	76	77	NA	Dead	PRJNA82745	SRR2588273	NA	NA	NA	nonresponse (X)
+Pat167	M1c	N	NA	Ipilimumab	N	NA	NA	84	408	NA	Dead	PRJNA82745	SRR2689026	NA	NA	NA	nonresponse (PD)
+Pat168	M1c	N	NA	Ipilimumab	N	NA	NA	67	67	NA	Dead	PRJNA82745	SRR2766211	NA	NA	NA	nonresponse (X)
+Pat17	M1c	N	NA	Ipilimumab	N	NA	NA	85	205	NA	Dead	PRJNA82745	SRR2771689	NA	NA	NA	nonresponse (PD)
+Pat170	M1c	N	NA	Ipilimumab	N	NA	NA	97	108	NA	Dead	PRJNA82745	SRR2779333	NA	NA	NA	nonresponse (PD)
+Pat171	M1a	N	NA	Ipilimumab	N	NA	NA	85	466	NA	Dead	PRJNA82745	SRR2731589	NA	NA	NA	nonresponse (PD)
+Pat174	M1a	N	NA	Ipilimumab	Y	NA	NA	134	688	688	Alive	PRJNA82745	SRR2766020	NA	NA	NA	response (PR)
+Pat175	M1a	N	NA	Ipilimumab	N	NA	NA	90	90	NA	Dead	PRJNA82745	SRR2669057	NA	NA	NA	nonresponse (X)
+Pat18	III	N	NA	Ipilimumab	N	NA	NA	112	798	798	Alive	PRJNA82745	SRR2767840	NA	NA	NA	long-survival (PD)
+Pat19	M1c	T	NA	Ipilimumab	N	NA	NA	21	175	NA	Dead	PRJNA82745	SRR2774182	476	862	660	nonresponse (PD)
+Pat21	M1c	N	NA	Ipilimumab	Y	NA	NA	558	676	NA	Dead	PRJNA82745	SRR2767209	NA	NA	NA	response (SD)
+Pat24	M1b	N	NA	Ipilimumab	Y	NA	NA	658	971	971	Alive	PRJNA82745	SRR2587502	NA	NA	NA	response (PR)
+Pat25	M1c	T	NA	Ipilimumab	N	NA	NA	67	325	NA	Dead	PRJNA82745	SRR2755094	43	80	108	nonresponse (PD)
+Pat27	M1c	T	NA	Ipilimumab	N	NA	NA	139	1379	1379	Alive	PRJNA82745	SRR2771617	32	52	40	long-survival (PD)
+Pat28	M1c	T	NA	Ipilimumab	N	NA	NA	77	1184	NA	Dead	PRJNA82745	SRR2660032	633	1109	897	long-survival (PD)
+Pat29	M1c	T	NA	Ipilimumab	Y	NA	NA	341	1326	1326	Alive	PRJNA82745	SRR2681702	41	87	100	response (X)
+Pat32	M1c	N	NA	Ipilimumab	N	NA	NA	70	147	NA	Dead	PRJNA82745	SRR2740729	NA	NA	NA	nonresponse (PD)
+Pat33	M1c	T	NA	Ipilimumab	N	NA	NA	211	211	NA	Dead	PRJNA82745	SRR2779097	14	32	18	nonresponse (PD)
+Pat36	M1c	N	NA	Ipilimumab	N	NA	NA	41	54	NA	Dead	PRJNA82745	SRR2665211	NA	NA	NA	nonresponse (PD)
+Pat37	M1c	N	NA	Ipilimumab	N	NA	NA	23	70	NA	Dead	PRJNA82745	SRR2763304	NA	NA	NA	nonresponse (PD)
+Pat38	M1c	N	NA	Ipilimumab	Y	NA	NA	302	1539	1539	Alive	PRJNA82745	SRR2764748	NA	NA	NA	response (PR)
+Pat39	M1b	T	NA	Ipilimumab	Y	NA	NA	1487	1487	1487	Alive	PRJNA82745	SRR2665516	65	108	101	response (CR)
+Pat40	M1c	T	NA	Ipilimumab	N	NA	NA	34	34	NA	Dead	PRJNA82745	SRR2751521	19	56	NA	nonresponse (PD)
+Pat41	M1c	T	NA	Ipilimumab	N	NA	NA	54	128	NA	Dead	PRJNA82745	SRR3083584	330	580	614	nonresponse (PD)
+Pat43	M1b	T	NA	Ipilimumab	N	NA	NA	37	37	NA	Dead	PRJNA82745	SRR2771286	177	281	434	nonresponse (PD)
+Pat44	M1c	T	NA	Ipilimumab	N	NA	NA	62	271	NA	Dead	PRJNA82745	SRR2780123	52	111	94	nonresponse (PD)
+Pat45	M1c	T	NA	Ipilimumab	N	NA	NA	61	89	NA	Dead	PRJNA82745	SRR2777065	905	1587	1426	nonresponse (PD)
+Pat46	M1b	N	NA	Ipilimumab	N	NA	NA	36	160	NA	Dead	PRJNA82745	SRR2770912	NA	NA	NA	nonresponse (PD)
+Pat47	M1c	T	NA	Ipilimumab	Y	NA	NA	1106	1106	1106	Alive	PRJNA82745	SRR2771707	135	223	303	response (CR)
+Pat49	M1c	T	NA	Ipilimumab	Y	NA	NA	163	1034	1034	Alive	PRJNA82745	SRR2778078	661	1124	778	response (SD)
+Pat50	M1c	N	NA	Ipilimumab	N	NA	NA	65	65	NA	Dead	PRJNA82745	SRR2696332	NA	NA	NA	nonresponse (PD)
+Pat54	M1c	N	NA	Ipilimumab	N	NA	NA	81	208	NA	Dead	PRJNA82745	SRR2674207	NA	NA	NA	nonresponse (PD)
+Pat55	M1c	N	NA	Ipilimumab	N	NA	NA	78	193	NA	Dead	PRJNA82745	SRR2776322	NA	NA	NA	nonresponse (PD)
+Pat56	M1c	N	NA	Ipilimumab	N	NA	NA	96	235	NA	Dead	PRJNA82745	SRR2763056	NA	NA	NA	nonresponse (PD)
+Pat57	III	N	NA	Ipilimumab	N	NA	NA	68	250	NA	Dead	PRJNA82745	SRR2685662	NA	NA	NA	nonresponse (PD)
+Pat58	III	N	NA	Ipilimumab	N	NA	NA	99	652	NA	Dead	PRJNA82745	SRR2771877	NA	NA	NA	nonresponse (PD)
+Pat59	M1b	N	NA	Ipilimumab	N	NA	NA	76	224	NA	Dead	PRJNA82745	SRR2768161	NA	NA	NA	nonresponse (PD)
+Pat60	M1c	N	NA	Ipilimumab	N	NA	NA	89	272	NA	Dead	PRJNA82745	SRR2686494	NA	NA	NA	nonresponse (PD)
+Pat62	M1c	N	NA	Ipilimumab	N	NA	NA	77	602	NA	Dead	PRJNA82745	SRR2770971	NA	NA	NA	nonresponse (PD)
+Pat63	III	N	NA	Ipilimumab	Y	NA	NA	718	1039	1039	Alive	PRJNA82745	SRR2660711	NA	NA	NA	response (CR)
+Pat64	M1c	N	NA	Ipilimumab	N	NA	NA	69	106	NA	Dead	PRJNA82745	SRR2676240	NA	NA	NA	nonresponse (PD)
+Pat66	III	N	NA	Ipilimumab	Y	NA	NA	598	653	653	Alive	PRJNA82745	SRR2674183	NA	NA	NA	response (SD)
+Pat67	M1c	N	NA	Ipilimumab	N	NA	NA	79	79	NA	Dead	PRJNA82745	SRR2776513	NA	NA	NA	nonresponse (PD)
+Pat70	M1c	N	NA	Ipilimumab	N	NA	NA	15	532	NA	Dead	PRJNA82745	SRR2779613	NA	NA	NA	nonresponse (PD)
+Pat71	M1c	N	NA	Ipilimumab	N	NA	NA	98	137	NA	Dead	PRJNA82745	SRR2709391	NA	NA	NA	nonresponse (PD)
+Pat73	M1c	N	NA	Ipilimumab	Y	NA	NA	408	442	NA	Dead	PRJNA82745	SRR2774871	NA	NA	NA	response (PR)
+Pat74	M1c	N	NA	Ipilimumab	N	NA	NA	80	193	NA	Dead	PRJNA82745	SRR2770768	NA	NA	NA	nonresponse (PD)
+Pat76	M1c	N	NA	Ipilimumab	N	NA	NA	70	139	NA	Dead	PRJNA82745	SRR2771101	NA	NA	NA	nonresponse (PD)
+Pat77	III	N	NA	Ipilimumab	Y	NA	NA	241	1029	1029	Alive	PRJNA82745	SRR2666252	NA	NA	NA	response (PR)
+Pat78	M1c	N	NA	Ipilimumab	N	NA	NA	38	38	NA	Dead	PRJNA82745	SRR2663174	NA	NA	NA	nonresponse (PD)
+Pat79	M1b	N	NA	Ipilimumab	Y	NA	NA	405	801	NA	Dead	PRJNA82745	SRR2777128	NA	NA	NA	response (PR)
+Pat80	M1c	T	NA	Ipilimumab	Y	NA	NA	182	724	NA	Dead	PRJNA82745	SRR2674135	192	319	407	response (SD)
+Pat81	M1a	T	NA	Ipilimumab	N	NA	NA	76	628	NA	Dead	PRJNA82745	SRR2661579	96	166	199	nonresponse (PD)
+Pat82	M1c	N	NA	Ipilimumab	N	NA	NA	75	104	NA	Dead	PRJNA82745	SRR2663978	NA	NA	NA	nonresponse (PD)
+Pat83	M1c	N	NA	Ipilimumab	N	NA	NA	107	1027	1027	Alive	PRJNA82745	SRR2718333	NA	NA	NA	long-survival (PD)
+Pat85	M1c	N	NA	Ipilimumab	N	NA	NA	83	458	NA	Dead	PRJNA82745	SRR2778512	NA	NA	NA	nonresponse (PD)
+Pat86	M1a	T	NA	Ipilimumab	N	NA	NA	153	293	NA	Dead	PRJNA82745	SRR2775133	61	82	111	nonresponse (SD)
+Pat88	M1c	T	NA	Ipilimumab	Y	NA	NA	665	989	989	Alive	PRJNA82745	SRR2712420	1077	1837	2285	response (SD)
+Pat90	M1c	T	NA	Ipilimumab	Y	NA	NA	669	1005	1005	Alive	PRJNA82745	SRR2757338	202	363	330	response (PR)
+Pat92	M1c	N	NA	Ipilimumab	N	NA	NA	84	123	NA	Dead	PRJNA82745	SRR2765167	NA	NA	NA	nonresponse (PD)
+Pat98	M1c	T	NA	Ipilimumab	N	NA	NA	77	140	NA	Dead	PRJNA82745	SRR3083781	32	55	30	nonresponse (PD)
+Pat02	M1c	T	NA	Ipilimumab	Y	NA	NA	538	1632	1632	Alive	PRJNA82745	SRR2773166	216	378	244	response (SD)
+Pat03	M1c	N	NA	Ipilimumab	N	NA	NA	76	100	NA	Dead	PRJNA82745	SRR2669737	NA	NA	NA	nonresponse (PD)
+Pat04	M1b	T	NA	Ipilimumab	Y	NA	NA	646	987	987	Alive	PRJNA82745	SRR2723814	326	527	568	response (PR)
+Pat06	M1c	T	NA	Ipilimumab	N	NA	NA	77	161	NA	Dead	PRJNA82745	SRR2675035	147	295	382	nonresponse (PD)
+Pat07	M0	T	NA	Ipilimumab	Y	NA	NA	721	1050	1050	Alive	PRJNA82745	SRR2779374	143	235	147	response (SD)
+Pat08	M1c	T	NA	Ipilimumab	N	NA	NA	73	140	NA	Dead	PRJNA82745	SRR2773750	244	456	670	nonresponse (PD)
+Pat100	M1c	T	NA	Ipilimumab	N	NA	NA	111	360	NA	Dead	PRJNA82745	SRR2741440	506	840	1452	nonresponse (PD)
+Pat101	M1c	T	NA	Ipilimumab	N	NA	NA	77	288	NA	Dead	PRJNA82745	SRR2760983	39	62	79	nonresponse (PD)
+Pat103	M1c	T	NA	Ipilimumab	Y	NA	NA	969	1048	NA	Dead	PRJNA82745	SRR2589478	535	917	605	response (PR)
+Pat104	M1c	T	NA	Ipilimumab	N	NA	NA	237	237	NA	Dead	PRJNA82745	SRR2753222	26	43	47	nonresponse (SD)
+Pat105	III	T	NA	Ipilimumab	Y	NA	NA	690	1047	1047	Alive	PRJNA82745	SRR2589393	106	192	131	response (PR)
+Pat106	M1b	T	NA	Ipilimumab	N	NA	NA	137	250	NA	Dead	PRJNA82745	SRR2732125	18	131	34	nonresponse (PD)
+Pat109	M1b	T	NA	Ipilimumab	N	NA	NA	19	83	NA	Dead	PRJNA82745	SRR2762331	239	417	499	nonresponse (PD)
+Pat11	M1c	T	NA	Ipilimumab	N	NA	NA	126	790	790	Alive	PRJNA82745	SRR2773334	2021	3567	5135	long-survival (PD)
+Pat110	M1b	T	NA	Ipilimumab	N	NA	NA	73	320	NA	Dead	PRJNA82745	SRR2774559	5854	9804	16299	nonresponse (PD)
+Pat113	M1c	T	NA	Ipilimumab	Y	NA	NA	52	301	NA	Dead	PRJNA82745	SRR2661932	300	583	319	response (PR)
+Pat115	M1c	T	NA	Ipilimumab	N	NA	NA	74	145	NA	Dead	PRJNA82745	SRR2675269	62	162	157	nonresponse (PD)
+Pat117	M1c	T	NA	Ipilimumab	Y	NA	NA	182	914	914	Alive	PRJNA82745	SRR2677533	662	1096	1255	response (PR)
+Pat118	M1c	T	NA	Ipilimumab	N	NA	NA	120	313	NA	Dead	PRJNA82745	SRR2777738	113	192	137	nonresponse (PD)
+Pat119	III	T	NA	Ipilimumab	N	NA	NA	108	808	808	Alive	PRJNA82745	SRR2770872	290	469	473	long-survival (PD)
+Pat119	III	T	NA	Ipilimumab	N	NA	NA	108	808	808	Alive	PRJNA82745	SRR2727854	290	469	473	long-survival (PD)
+Pat121	M1c	T	NA	Ipilimumab	N	NA	NA	84	122	NA	Dead	PRJNA82745	SRR2588549	36	72	39	nonresponse (PD)
+Pat123	M1c	T	NA	Ipilimumab	Y	NA	NA	544	853	NA	Dead	PRJNA82745	SRR2679057	496	877	856	response (SD)
+Pat124	M1b	T	NA	Ipilimumab	N	NA	NA	67	146	NA	Dead	PRJNA82745	SRR2747991	374	645	665	nonresponse (PD)
+Pat126	M1b	T	NA	Ipilimumab	Y	NA	NA	187	641	641	Alive	PRJNA82745	SRR2772336	370	644	649	response (PR)
+Pat127	M1c	T	NA	Ipilimumab	N	NA	NA	84	332	NA	Dead	PRJNA82745	SRR2772054	103	185	212	nonresponse (PD)
+Pat128	M1c	T	NA	Ipilimumab	N	NA	NA	81	113	NA	Dead	PRJNA82745	SRR2709858	76	137	118	nonresponse (PD)
+Pat129	M1b	T	NA	Ipilimumab	N	NA	NA	68	539	539	Alive	PRJNA82745	SRR2768297	89	165	169	nonresponse (PD)
+Pat13	III	T	NA	Ipilimumab	N	NA	NA	104	732	NA	Dead	PRJNA82745	SRR2770259	106	194	98	long-survival (PD)
+Pat130	M1c	T	NA	Ipilimumab	N	NA	NA	17	45	NA	Dead	PRJNA82745	SRR2778365	183	313	561	nonresponse (PD)
+Pat131	M1c	T	NA	Ipilimumab	N	NA	NA	195	257	NA	Dead	PRJNA82745	SRR2780177	89	157	103	nonresponse (SD)
+Pat132	M1c	T	NA	Ipilimumab	Y	NA	NA	187	676	676	Alive	PRJNA82745	SRR2674312	1967	2944	2116	response (PR)
+Pat133	M1b	T	NA	Ipilimumab	N	NA	NA	134	542	NA	Dead	PRJNA82745	SRR2670626	203	327	291	nonresponse (PD)
+Pat135	M1c	T	NA	Ipilimumab	N	NA	NA	73	81	NA	Dead	PRJNA82745	SRR2731893	131	199	178	nonresponse (PD)
+Pat138	M1c	T	NA	Ipilimumab	Y	NA	NA	581	1478	NA	Dead	PRJNA82745	SRR2772131	4738	7545	8528	response (SD)
+Pat139	M1c	T	NA	Ipilimumab	N	NA	NA	46	99	NA	Dead	PRJNA82745	SRR2684746	1306	2215	5163	nonresponse (PD)
+Pat14	M1c	T	NA	Ipilimumab	N	NA	NA	84	163	NA	Dead	PRJNA82745	SRR2774418	50	82	62	nonresponse (PD)
+Pat14	M1c	T	NA	Ipilimumab	N	NA	NA	84	163	NA	Dead	PRJNA82745	SRR2771207	50	82	62	nonresponse (PD)
+Pat140	M1c	T	NA	Ipilimumab	N	NA	NA	114	492	NA	Dead	PRJNA82745	SRR2777977	251	414	523	nonresponse (PD)
+Pat143	M1c	T	NA	Ipilimumab	N	NA	NA	90	153	NA	Dead	PRJNA82745	SRR2712344	832	1410	2680	nonresponse (PD)
+Pat147	M1a	T	NA	Ipilimumab	N	NA	NA	120	224	NA	Dead	PRJNA82745	SRR2774969	544	866	458	nonresponse (PD)
+Pat148	M1c	T	NA	Ipilimumab	N	NA	NA	48	84	NA	Dead	PRJNA82745	SRR2753967	127	186	170	nonresponse (PD)
+Pat15	M1c	T	NA	Ipilimumab	N	NA	NA	31	50	NA	Dead	PRJNA82745	SRR2768790	237	384	697	nonresponse (PD)
+Pat151	M1c	T	NA	Ipilimumab	N	NA	NA	106	204	NA	Dead	PRJNA82745	SRR2775456	1439	2284	3781	nonresponse (PD)
+Pat157	M1c	T	NA	Ipilimumab	N	NA	NA	53	86	NA	Dead	PRJNA82745	SRR2706574	108	180	157	nonresponse (X)
+Pat159	M1b	T	NA	Ipilimumab	N	NA	NA	100	842	842	Alive	PRJNA82745	SRR2777240	223	347	451	long-survival (PD)
+Pat16	M1b	T	NA	Ipilimumab	N	NA	NA	84	811	NA	Dead	PRJNA82745	SRR2780299	1897	3223	2807	long-survival (PD)
+Pat16	M1b	T	NA	Ipilimumab	N	NA	NA	84	811	NA	Dead	PRJNA82745	SRR2717684	1897	3223	2807	long-survival (PD)
+Pat160	M1c	T	NA	Ipilimumab	N	NA	NA	81	152	NA	Dead	PRJNA82745	SRR2778175	31	43	76	nonresponse (PD)
+Pat162	M1c	T	NA	Ipilimumab	N	NA	NA	78	211	NA	Dead	PRJNA82745	SRR2692147	50	92	43	nonresponse (PD)
+Pat163	M1c	T	NA	Ipilimumab	N	NA	NA	76	749	749	Alive	PRJNA82745	SRR2740217	47	73	122	long-survival (PD)
+Pat165	M1c	T	NA	Ipilimumab	N	NA	NA	95	115	NA	Dead	PRJNA82745	SRR2589694	25	34	50	nonresponse (PD)
+Pat166	M1c	T	NA	Ipilimumab	N	NA	NA	76	77	NA	Dead	PRJNA82745	SRR2665040	16	31	42	nonresponse (X)
+Pat167	M1c	T	NA	Ipilimumab	N	NA	NA	84	408	NA	Dead	PRJNA82745	SRR2767414	35	63	96	nonresponse (PD)
+Pat168	M1c	T	NA	Ipilimumab	N	NA	NA	67	67	NA	Dead	PRJNA82745	SRR2778705	191	292	409	nonresponse (X)
+Pat17	M1c	T	NA	Ipilimumab	N	NA	NA	85	205	NA	Dead	PRJNA82745	SRR2770067	212	349	519	nonresponse (PD)
+Pat170	M1c	T	NA	Ipilimumab	N	NA	NA	97	108	NA	Dead	PRJNA82745	SRR2679085	189	301	356	nonresponse (PD)
+Pat171	M1a	T	NA	Ipilimumab	N	NA	NA	85	466	NA	Dead	PRJNA82745	SRR2747280	73	109	67	nonresponse (PD)
+Pat174	M1a	T	NA	Ipilimumab	Y	NA	NA	134	688	688	Alive	PRJNA82745	SRR2891925	584	951	1054	response (PR)
+Pat175	M1a	T	NA	Ipilimumab	N	NA	NA	90	90	NA	Dead	PRJNA82745	SRR2770550	96	217	192	nonresponse (X)
+Pat18	III	T	NA	Ipilimumab	N	NA	NA	112	798	798	Alive	PRJNA82745	SRR2780332	31	65	61	long-survival (PD)
+Pat19	M1c	T	NA	Ipilimumab	N	NA	NA	21	175	NA	Dead	PRJNA82745	SRR2779901	476	862	660	nonresponse (PD)
+Pat21	M1c	T	NA	Ipilimumab	Y	NA	NA	558	676	NA	Dead	PRJNA82745	SRR2702801	1333	2382	1382	response (SD)
+Pat24	M1b	T	NA	Ipilimumab	Y	NA	NA	658	971	971	Alive	PRJNA82745	SRR2663954	29	55	34	response (PR)
+Pat25	M1c	T	NA	Ipilimumab	N	NA	NA	67	325	NA	Dead	PRJNA82745	SRR2589158	43	80	108	nonresponse (PD)
+Pat27	M1c	T	NA	Ipilimumab	N	NA	NA	139	1379	1379	Alive	PRJNA82745	SRR2681131	32	52	40	long-survival (PD)
+Pat28	M1c	T	NA	Ipilimumab	N	NA	NA	77	1184	NA	Dead	PRJNA82745	SRR2771788	633	1109	897	long-survival (PD)
+Pat29	M1c	T	NA	Ipilimumab	Y	NA	NA	341	1326	1326	Alive	PRJNA82745	SRR2773533	41	87	199	response (X)
+Pat32	M1c	T	NA	Ipilimumab	N	NA	NA	70	147	NA	Dead	PRJNA82745	SRR2689326	667	1132	1570	nonresponse (PD)
+Pat33	M1c	T	NA	Ipilimumab	N	NA	NA	211	211	NA	Dead	PRJNA82745	SRR2677297	14	32	18	nonresponse (PD)
+Pat36	M1c	T	NA	Ipilimumab	N	NA	NA	41	54	NA	Dead	PRJNA82745	SRR2777976	7	44	12	nonresponse (PD)
+Pat36	M1c	T	NA	Ipilimumab	N	NA	NA	41	54	NA	Dead	PRJNA82745	SRR2771331	7	44	12	nonresponse (PD)
+Pat37	M1c	T	NA	Ipilimumab	N	NA	NA	23	70	NA	Dead	PRJNA82745	SRR2778466	120	242	83	nonresponse (PD)
+Pat37	M1c	T	NA	Ipilimumab	N	NA	NA	23	70	NA	Dead	PRJNA82745	SRR2773626	120	242	83	nonresponse (PD)
+Pat38	M1c	T	NA	Ipilimumab	Y	NA	NA	302	1539	1539	Alive	PRJNA82745	SRR2778056	2425	4007	6984	response (PR)
+Pat38	M1c	T	NA	Ipilimumab	Y	NA	NA	302	1539	1539	Alive	PRJNA82745	SRR2661602	2425	4007	6984	response (PR)
+Pat39	M1b	T	NA	Ipilimumab	Y	NA	NA	1487	1487	1487	Alive	PRJNA82745	SRR2757601	65	108	101	response (CR)
+Pat40	M1c	T	NA	Ipilimumab	N	NA	NA	34	34	NA	Dead	PRJNA82745	SRR2663198	19	56	17	nonresponse (PD)
+Pat41	M1c	T	NA	Ipilimumab	N	NA	NA	54	128	NA	Dead	PRJNA82745	SRR2775592	330	580	614	nonresponse (PD)
+Pat43	M1b	T	NA	Ipilimumab	N	NA	NA	37	37	NA	Dead	PRJNA82745	SRR2776798	177	281	434	nonresponse (PD)
+Pat44	M1c	T	NA	Ipilimumab	N	NA	NA	62	271	NA	Dead	PRJNA82745	SRR2588166	52	111	94	nonresponse (PD)
+Pat45	M1c	T	NA	Ipilimumab	N	NA	NA	61	89	NA	Dead	PRJNA82745	SRR2677161	905	1587	1426	nonresponse (PD)
+Pat46	M1b	T	NA	Ipilimumab	N	NA	NA	36	160	NA	Dead	PRJNA82745	SRR2777217	252	448	315	nonresponse (PD)
+Pat46	M1b	T	NA	Ipilimumab	N	NA	NA	36	160	NA	Dead	PRJNA82745	SRR2679013	252	448	315	nonresponse (PD)
+Pat47	M1c	T	NA	Ipilimumab	Y	NA	NA	1106	1106	1106	Alive	PRJNA82745	SRR2772900	135	223	303	response (CR)
+Pat49	M1c	T	NA	Ipilimumab	Y	NA	NA	163	1034	1034	Alive	PRJNA82745	SRR2777655	661	1124	778	response (SD)
+Pat50	M1c	T	NA	Ipilimumab	N	NA	NA	65	65	NA	Dead	PRJNA82745	SRR2774183	413	711	1219	nonresponse (PD)
+Pat50	M1c	T	NA	Ipilimumab	N	NA	NA	65	65	NA	Dead	PRJNA82745	SRR2700736	413	711	1219	nonresponse (PD)
+Pat54	M1c	T	NA	Ipilimumab	N	NA	NA	81	208	NA	Dead	PRJNA82745	SRR2726249	861	755	1923	nonresponse (PD)
+Pat55	M1c	T	NA	Ipilimumab	N	NA	NA	78	193	NA	Dead	PRJNA82745	SRR2777872	471	755	797	nonresponse (PD)
+Pat56	M1c	T	NA	Ipilimumab	N	NA	NA	96	235	NA	Dead	PRJNA82745	SRR2774324	43	77	70	nonresponse (PD)
+Pat57	III	T	NA	Ipilimumab	N	NA	NA	68	250	NA	Dead	PRJNA82745	SRR2778237	55	94	90	nonresponse (PD)
+Pat58	III	T	NA	Ipilimumab	N	NA	NA	99	652	NA	Dead	PRJNA82745	SRR2767760	1686	2761	5300	nonresponse (PD)
+Pat59	M1b	T	NA	Ipilimumab	N	NA	NA	76	224	NA	Dead	PRJNA82745	SRR2779219	264	487	636	nonresponse (PD)
+Pat60	M1c	T	NA	Ipilimumab	N	NA	NA	89	272	NA	Dead	PRJNA82745	SRR2776179	746	1225	826	nonresponse (PD)
+Pat62	M1c	T	NA	Ipilimumab	N	NA	NA	77	602	NA	Dead	PRJNA82745	SRR2678485	1368	2378	3247	nonresponse (PD)
+Pat63	III	T	NA	Ipilimumab	Y	NA	NA	718	1039	1039	Alive	PRJNA82745	SRR2770409	189	352	252	response (CR)
+Pat64	M1c	T	NA	Ipilimumab	N	NA	NA	69	106	NA	Dead	PRJNA82745	SRR2589808	601	1056	842	nonresponse (PD)
+Pat66	III	T	NA	Ipilimumab	Y	NA	NA	598	653	653	Alive	PRJNA82745	SRR2693653	309	482	699	response (SD)
+Pat67	M1c	T	NA	Ipilimumab	N	NA	NA	79	79	NA	Dead	PRJNA82745	SRR2771975	27	37	37	nonresponse (PD)
+Pat70	M1c	T	NA	Ipilimumab	N	NA	NA	15	532	NA	Dead	PRJNA82745	SRR2769286	78	126	122	nonresponse (PD)
+Pat71	M1c	T	NA	Ipilimumab	N	NA	NA	98	137	NA	Dead	PRJNA82745	SRR2670951	645	1086	1560	nonresponse (PD)
+Pat73	M1c	T	NA	Ipilimumab	Y	NA	NA	408	442	NA	Dead	PRJNA82745	SRR2772697	250	434	585	response (PR)
+Pat74	M1c	T	NA	Ipilimumab	N	NA	NA	80	193	NA	Dead	PRJNA82745	SRR2680970	499	844	1446	nonresponse (PD)
+Pat76	M1c	T	NA	Ipilimumab	N	NA	NA	70	139	NA	Dead	PRJNA82745	SRR2668212	189	305	138	nonresponse (PD)
+Pat77	III	T	NA	Ipilimumab	Y	NA	NA	241	1029	1029	Alive	PRJNA82745	SRR2772803	349	555	737	response (PR)
+Pat78	M1c	T	NA	Ipilimumab	N	NA	NA	38	38	NA	Dead	PRJNA82745	SRR2589276	15	25	9	nonresponse (PD)
+Pat79	M1b	T	NA	Ipilimumab	Y	NA	NA	405	801	NA	Dead	PRJNA82745	SRR2757072	307	557	610	response (PR)
+Pat79	M1b	T	NA	Ipilimumab	Y	NA	NA	405	801	NA	Dead	PRJNA82745	SRR2753064	307	557	610	response (PR)
+Pat80	M1c	T	NA	Ipilimumab	Y	NA	NA	182	724	NA	Dead	PRJNA82745	SRR2765066	192	319	407	response (SD)
+Pat81	M1a	T	NA	Ipilimumab	N	NA	NA	76	628	NA	Dead	PRJNA82745	SRR2707236	96	166	199	nonresponse (PD)
+Pat82	M1c	T	NA	Ipilimumab	N	NA	NA	75	104	NA	Dead	PRJNA82745	SRR2682345	400	695	757	nonresponse (PD)
+Pat83	M1c	T	NA	Ipilimumab	N	NA	NA	107	1027	1027	Alive	PRJNA82745	SRR2778609	35	63	40	long-survival (PD)
+Pat83	M1c	T	NA	Ipilimumab	N	NA	NA	107	1027	1027	Alive	PRJNA82745	SRR2703695	35	63	40	long-survival (PD)
+Pat85	M1c	T	NA	Ipilimumab	N	NA	NA	83	458	NA	Dead	PRJNA82745	SRR2779183	320	529	812	nonresponse (PD)
+Pat85	M1c	T	NA	Ipilimumab	N	NA	NA	83	458	NA	Dead	PRJNA82745	SRR2777326	320	529	812	nonresponse (PD)
+Pat86	M1a	T	NA	Ipilimumab	N	NA	NA	153	293	NA	Dead	PRJNA82745	SRR2587585	61	82	111	nonresponse (SD)
+Pat88	M1c	T	NA	Ipilimumab	Y	NA	NA	665	989	989	Alive	PRJNA82745	SRR2765304	1077	1837	2285	response (SD)
+Pat90	M1c	T	NA	Ipilimumab	Y	NA	NA	669	1005	1005	Alive	PRJNA82745	SRR2588053	202	363	330	response (PR)
+Pat92	M1c	T	NA	Ipilimumab	N	NA	NA	84	123	NA	Dead	PRJNA82745	SRR2775168	28	70	21	nonresponse (PD)
+Pat98	M1c	T	NA	Ipilimumab	N	NA	NA	77	140	NA	Dead	PRJNA82745	SRR2588422	32	55	30	nonresponse (PD)
+Pat02	M1c	N	NA	Ipilimumab	Y	NA	NA	538	1632	1632	Alive	PRJNA82745	SRR2771231	NA	NA	NA	response (SD)
+Pat03	M1c	T	NA	Ipilimumab	N	NA	NA	76	100	NA	Dead	PRJNA82745	SRR2689711	362	602	475	nonresponse (PD)
+Pat04	M1b	N	NA	Ipilimumab	Y	NA	NA	646	987	987	Alive	PRJNA82745	SRR2775312	NA	NA	NA	response (PR)
+Pat06	M1c	N	NA	Ipilimumab	N	NA	NA	77	161	NA	Dead	PRJNA82745	SRR2766685	NA	NA	NA	nonresponse (PD)
+Pat08	M1c	N	NA	Ipilimumab	N	NA	NA	73	140	NA	Dead	PRJNA82745	SRR2739282	NA	NA	NA	nonresponse (PD)
+Pat118	M1c	N	NA	Ipilimumab	N	NA	NA	120	313	NA	Dead	PRJNA82745	SRR2774637	NA	NA	NA	nonresponse (PD)
+Pat123	M1c	N	NA	Ipilimumab	Y	NA	NA	544	853	NA	Dead	PRJNA82745	SRR2778467	NA	NA	NA	response (SD)
+Pat126	M1b	N	NA	Ipilimumab	Y	NA	NA	187	641	641	Alive	PRJNA82745	SRR2780399	NA	NA	NA	response (PR)
+Pat15	M1c	N	NA	Ipilimumab	N	NA	NA	31	50	NA	Dead	PRJNA82745	SRR2729983	NA	NA	NA	nonresponse (PD)
+Pat19	M1c	N	NA	Ipilimumab	N	NA	NA	21	175	NA	Dead	PRJNA82745	SRR2685939	NA	NA	NA	nonresponse (PD)
+Pat25	M1c	N	NA	Ipilimumab	N	NA	NA	67	325	NA	Dead	PRJNA82745	SRR2682770	NA	NA	NA	nonresponse (PD)
+Pat27	M1c	N	NA	Ipilimumab	N	NA	NA	139	1379	1379	Alive	PRJNA82745	SRR2756594	NA	NA	NA	long-survival (PD)
+Pat28	M1c	N	NA	Ipilimumab	N	NA	NA	77	1184	NA	Dead	PRJNA82745	SRR2682026	NA	NA	NA	long-survival (PD)
+Pat29	M1c	N	NA	Ipilimumab	Y	NA	NA	341	1326	1326	Alive	PRJNA82745	SRR2766529	NA	NA	NA	response (X)
+Pat33	M1c	N	NA	Ipilimumab	N	NA	NA	211	211	NA	Dead	PRJNA82745	SRR2668081	NA	NA	NA	nonresponse (PD)
+Pat39	M1b	N	NA	Ipilimumab	Y	NA	NA	1487	1487	1487	Alive	PRJNA82745	SRR2698019	NA	NA	NA	response (CR)
+Pat40	M1c	N	NA	Ipilimumab	N	NA	NA	34	34	NA	Dead	PRJNA82745	SRR2681066	NA	NA	NA	nonresponse (PD)
+Pat41	M1c	N	NA	Ipilimumab	N	NA	NA	54	128	NA	Dead	PRJNA82745	SRR2779792	NA	NA	NA	nonresponse (PD)
+Pat43	M1b	N	NA	Ipilimumab	N	NA	NA	37	37	NA	Dead	PRJNA82745	SRR2661956	NA	NA	NA	nonresponse (PD)
+Pat44	M1c	N	NA	Ipilimumab	N	NA	NA	62	271	NA	Dead	PRJNA82745	SRR2740097	NA	NA	NA	nonresponse (PD)
+Pat45	M1c	N	NA	Ipilimumab	N	NA	NA	61	89	NA	Dead	PRJNA82745	SRR2776116	NA	NA	NA	nonresponse (PD)
+Pat47	M1c	N	NA	Ipilimumab	Y	NA	NA	1106	1106	1106	Alive	PRJNA82745	SRR2660259	NA	NA	NA	response (CR)
+Pat49	M1c	N	NA	Ipilimumab	Y	NA	NA	163	1034	1034	Alive	PRJNA82745	SRR2774803	NA	NA	NA	response (SD)
+Pat80	M1c	N	NA	Ipilimumab	Y	NA	NA	182	724	NA	Dead	PRJNA82745	SRR2677014	NA	NA	NA	response (SD)
+Pat81	M1a	N	NA	Ipilimumab	N	NA	NA	76	628	NA	Dead	PRJNA82745	SRR2773005	NA	NA	NA	nonresponse (PD)
+Pat86	M1a	N	NA	Ipilimumab	N	NA	NA	153	293	NA	Dead	PRJNA82745	SRR2680027	NA	NA	NA	nonresponse (SD)
+Pat88	M1c	N	NA	Ipilimumab	Y	NA	NA	665	989	989	Alive	PRJNA82745	SRR2771490	NA	NA	NA	response (SD)
+Pat90	M1c	N	NA	Ipilimumab	Y	NA	NA	669	1005	1005	Alive	PRJNA82745	SRR2763956	NA	NA	NA	response (PR)
+Pat98	M1c	N	NA	Ipilimumab	N	NA	NA	77	140	NA	Dead	PRJNA82745	SRR2730944	NA	NA	NA	nonresponse (PD)
+Pat20	M1c	T	NA	Ipilimumab	N	NA	NA	71	116	NA	Dead	PRJNA82745	SRR2672095	NA	NA	NA	nonresponse (PD)
+Pat91	M1a	T	NA	Ipilimumab	Y	NA	NA	680	680	NA	Dead	PRJNA82745	SRR2701663	NA	NA	NA	response (SD)
+CR1509	M1c	T	Subcutaneous (gluteal)	Ipilimumab 10x14	Y	NA	504	NA	1644	1644	Alive	PRJNA305077	SRR3033326	NA	NA	NA	response (LB)
+CR6126	M1b	T	Bone (extremity)	Ipilimumab 3x4	Y	NA	707	NA	707	707	Alive	PRJNA305077	SRR3033327	NA	NA	NA	response (LB)
+CR7623	M1c	T	Adrenal	Ipilimumab 10x17	N	NA	329	NA	1461	1461	Alive	PRJNA305077	SRR3033328	NA	NA	NA	nonresponse (NB)
+CR9699	M1c	T	Lymph Node (portal)	Ipilimumab 10x19	Y	NA	364	NA	1607	1607	Alive	PRJNA305077	SRR3033329	NA	NA	NA	response (LB)
+LSD0167	M1c	T	Bowel (small)	Ipilimumab 3x3	Y	NA	980	NA	980	980	Alive	PRJNA305077	SRR3033330	NA	NA	NA	response (LB)
+NR3549	M1c	T	Lymph Node (inguinal)	Ipilimumab 10x3	N	NA	112	NA	183	NA	NA	PRJNA305077	SRR3033331	NA	NA	NA	nonresponse (NB)
+NR4631	M1c	T	Brain	Ipilimumab 3x4	N	NA	91	NA	183	NA	NA	PRJNA305077	SRR3033332	NA	NA	NA	nonresponse (NB)
+NR4810	M1c	T	Bowel (small)	Ipilimumab 3x4	N	NA	84	NA	146	NA	NA	PRJNA305077	SRR3033333	NA	NA	NA	nonresponse (NB)
+NR5784	M1c	T	Lymph Node (axilla)	Ipilimumab 10x4	N	NA	77	NA	183	NA	NA	PRJNA305077	SRR3033334	NA	NA	NA	nonresponse (NB)
+NR9449	M1c	T	Bowel (small)	Ipilimumab 3x4	N	NA	70	NA	219	NA	NA	PRJNA305077	SRR3033335	NA	NA	NA	nonresponse (NB)
+NR9521	M1b	T	Subcutaneous (upper extremity)	Ipilimumab 3x4	N	NA	84	NA	986	NA	NA	PRJNA305077	SRR3033336	NA	NA	NA	nonresponse (NB)
+NR9705	M1c	T	Subcutaneous (chestwall)	Ipilimumab 3x4	N	NA	203	NA	438	NA	NA	PRJNA305077	SRR3033337	NA	NA	NA	nonresponse (NB)
+SD0346	M1b	T	Subcutaneous (axilla)	Ipilimumab 10x3 + dacarbazinex6	Y	NA	476	NA	1059	NA	NA	PRJNA305077	SRR3033338	NA	NA	NA	response (LB)
+SD1494	M1c	T	Brain	Ipilimumab 3x4	Y	NA	357	NA	730	730	Alive	PRJNA305077	SRR3033339	NA	NA	NA	response (LB)
+SD2051	M1c	T	Lymph Node (inguinal)	Ipilimumab 3x5 + vemurafenib	N	NA	112	NA	292	NA	NA	PRJNA305077	SRR3033340	NA	NA	NA	nonresponse (NB)
+SD2056	M1b	T	Lung	Ipilimumab 10x17	Y	NA	1456	NA	1456	1456	Alive	PRJNA305077	SRR3033341	NA	NA	NA	response (LB)
+SD5038	M1c	T	Subcutaneous (back)	Ipilimumab 10x9	N	NA	168	NA	438	NA	NA	PRJNA305077	SRR3033342	NA	NA	NA	nonresponse (NB)
+SD6336	M1c	T	Subcutaneous (gluteal)	Ipilimumab 10x34	Y	NA	2527	NA	2527	2527	Alive	PRJNA305077	SRR3033343	NA	NA	NA	response (LB)
+SD6494	M1c	T	Bowel (small)	Ipilimumab 3x2	N	NA	91	NA	256	NA	NA	PRJNA305077	SRR3033344	NA	NA	NA	nonresponse (NB)
+SD7357	M1c	T	Breast	Ipilimumab 3x4	N	NA	147	NA	730	NA	NA	PRJNA305077	SRR3033345	NA	NA	NA	nonresponse (NB)
+Case1-UCLA	M1c	T	Bowel (small)	Pembrolizumab	NA	Y	NA	419	691	NA	NA	PRJNA324705	SRR3653952	1173		NA	Partial Response
+Case1-UCLA	M1c	T	Bowel (sigmoid colon)	Pembrolizumab	NA	N	NA	419	691	NA	NA	PRJNA324705	SRR3653953	1140		NA	Progressive Disease
+Case4-UCLA	M1c	T	Subcutaneous (chestwall)	Pembrolizumab	NA	Y	NA	888	1262	1262	NA	PRJNA324705	SRR3653954	347		NA	Partial Response
+Case4-UCLA	M1c	T	Subcutaneous (chestwall)	Pembrolizumab	NA	N	NA	888	1262	1262	NA	PRJNA324705	SRR3653955	406		NA	Progressive Disease
+Case4-UCLA	M1c	N	Blood	Pembrolizumab	NA	NA	NA	888	1262	1262	NA	PRJNA324705	SRR3653956	NA		NA	NA
+Case1-UCLA	M1c	N	Blood	Pembrolizumab	NA	NA	NA	419	691	NA	NA	PRJNA324705	SRR3653957	NA		NA	NA
+Case2-UCLA	M1b	T	Lung	Pembrolizumab	NA	N	NA	734	945	NA	NA	PRJNA324705	SRR3653959	305		NA	Progressive Disease
+Case2-UCLA	M1b	N	Blood	Pembrolizumab	NA	NA	NA	734	945	NA	NA	PRJNA324705	SRR3653961	NA		NA	NA
+Case3-UCLA	M1c	T	Bowel (small)	Pembrolizumab	NA	N	NA	453	974	NA	NA	PRJNA324705	SRR3653963	328		NA	Progressive Disease
+Case3-UCLA	M1c	N	Blood	Pembrolizumab	NA	NA	NA	453	974	NA	NA	PRJNA324705	SRR3653964	NA	NA	NA	NA
+P31	NA	T	NA	Ipilimumab	Y	NA	NA	NA	NA	NA	NA	PRJNA357321	SRR5149286	NA	NA	NA	Partial Response
+P50	NA	T	NA	Ipilimumab	N	NA	NA	NA	NA	NA	NA	PRJNA357321	SRR5149287	NA	NA	NA	Progressive Disease
+P9	NA	T	NA	Ipilimumab	N	NA	NA	NA	NA	NA	NA	PRJNA357321	SRR5149288	NA	NA	NA	Progressive Disease
+P5	NA	T	NA	Ipilimumab	Y	NA	NA	NA	NA	NA	NA	PRJNA357321	SRR5149289	NA	NA	NA	Partial Response
+P7	NA	T	NA	Ipilimumab	N	NA	NA	NA	NA	NA	NA	PRJNA357321	SRR5149290	NA	NA	NA	Progressive Disease
+P25	NA	T	NA	Ipilimumab	N	NA	NA	NA	NA	NA	NA	PRJNA357321	SRR5149291	NA	NA	NA	Progressive Disease
+P47	NA	T	NA	Ipilimumab	N	NA	NA	NA	NA	NA	NA	PRJNA357321	SRR5149292	NA	NA	NA	Progressive Disease
+P18	NA	T	NA	Ipilimumab	N	NA	NA	NA	NA	NA	NA	PRJNA357321	SRR5149293	NA	NA	NA	Progressive Disease
+P22	NA	T	NA	Ipilimumab	Y	NA	NA	NA	NA	NA	NA	PRJNA357321	SRR5149294	NA	NA	NA	Partial Response
+P23	NA	T	NA	Ipilimumab	N	NA	NA	NA	NA	NA	NA	PRJNA357321	SRR5149295	NA	NA	NA	Progressive Disease
+P6	NA	T	NA	Ipilimumab	N	NA	NA	NA	NA	NA	NA	PRJNA357321	SRR5149296	NA	NA	NA	Progressive Disease
+P37	NA	T	NA	Ipilimumab	Y	NA	NA	NA	NA	NA	NA	PRJNA357321	SRR5149297	NA	NA	NA	Partial Response
+P16	NA	T	NA	Ipilimumab	N	NA	NA	NA	NA	NA	NA	PRJNA357321	SRR5149298	NA	NA	NA	Progressive Disease
+P54	NA	T	NA	Ipilimumab	N	NA	NA	NA	NA	NA	NA	PRJNA357321	SRR5149299	NA	NA	NA	Progressive Disease
+P46	NA	T	NA	Ipilimumab	N	NA	NA	NA	NA	NA	NA	PRJNA357321	SRR5149300	NA	NA	NA	Progressive Disease
+P24	NA	T	NA	Ipilimumab	N	NA	NA	NA	NA	NA	NA	PRJNA357321	SRR5149301	NA	NA	NA	Progressive Disease
+P31	NA	N	NA	Ipilimumab	Y	NA	NA	NA	NA	NA	NA	PRJNA357321	SRR5395293	NA	NA	NA	Partial Response
+P50	NA	N	NA	Ipilimumab	N	NA	NA	NA	NA	NA	NA	PRJNA357321	SRR5395297	NA	NA	NA	Progressive Disease
+P9	NA	N	NA	Ipilimumab	N	NA	NA	NA	NA	NA	NA	PRJNA357321	SRR5395302	NA	NA	NA	Progressive Disease
+P5	NA	N	NA	Ipilimumab	Y	NA	NA	NA	NA	NA	NA	PRJNA357321	SRR5395299	NA	NA	NA	Partial Response
+P7	NA	N	NA	Ipilimumab	N	NA	NA	NA	NA	NA	NA	PRJNA357321	SRR5395301	NA	NA	NA	Progressive Disease
+P25	NA	N	NA	Ipilimumab	N	NA	NA	NA	NA	NA	NA	PRJNA357321	SRR5395292	NA	NA	NA	Progressive Disease
+P47	NA	N	NA	Ipilimumab	N	NA	NA	NA	NA	NA	NA	PRJNA357321	SRR5395296	NA	NA	NA	Progressive Disease
+P18	NA	N	NA	Ipilimumab	N	NA	NA	NA	NA	NA	NA	PRJNA357321	SRR5395288	NA	NA	NA	Progressive Disease
+P22	NA	N	NA	Ipilimumab	Y	NA	NA	NA	NA	NA	NA	PRJNA357321	SRR5395289	NA	NA	NA	Partial Response
+P23	NA	N	NA	Ipilimumab	N	NA	NA	NA	NA	NA	NA	PRJNA357321	SRR5395290	NA	NA	NA	Progressive Disease
+P6	NA	N	NA	Ipilimumab	N	NA	NA	NA	NA	NA	NA	PRJNA357321	SRR5395300	NA	NA	NA	Progressive Disease
+P37	NA	N	NA	Ipilimumab	Y	NA	NA	NA	NA	NA	NA	PRJNA357321	SRR5395294	NA	NA	NA	Partial Response
+P16	NA	N	NA	Ipilimumab	N	NA	NA	NA	NA	NA	NA	PRJNA357321	SRR5395287	NA	NA	NA	Progressive Disease
+P54	NA	N	NA	Ipilimumab	N	NA	NA	NA	NA	NA	NA	PRJNA357321	SRR5395298	NA	NA	NA	Progressive Disease
+P46	NA	N	NA	Ipilimumab	N	NA	NA	NA	NA	NA	NA	PRJNA357321	SRR5395295	NA	NA	NA	Progressive Disease
+P24	NA	N	NA	Ipilimumab	N	NA	NA	NA	NA	NA	NA	PRJNA357321	SRR5395291	NA	NA	NA	Progressive Disease
+Hopkins_1	NA	N	NA	Pembrolizumab 10mg q14days	NA	NA	NA	NA	NA	NA	NA	Hopkins	PGDX3144N_Ex_R	1291	NA	NA	Stable Disease
+Hopkins_4	NA	N	NA	Pembrolizumab 10mg q14days	NA	NA	NA	NA	NA	NA	NA	Hopkins	PGDX3145N_Ex_R	771	NA	NA	Progressive Disease
+Hopkins_6	NA	N	NA	Pembrolizumab 10mg q14days	NA	NA	NA	85	630	630	NA	Hopkins	PGDX3146N_Ex_R	2138	NA	NA	Progressive Disease
+Hopkins_7	NA	N	NA	Pembrolizumab 10mg q14days	NA	NA	NA	NA	NA	NA	NA	Hopkins	PGDX3147N_Ex_R	NA	NA	NA	Progressive Disease
+Hopkins_9	NA	N	NA	Pembrolizumab 10mg q14days	NA	NA	NA	NA	NA	NA	NA	Hopkins	PGDX3148N_Ex_R	1814	NA	NA	Stable Disease
+Hopkins_10	NA	N	NA	Pembrolizumab 10mg q14days	NA	NA	NA	NA	NA	NA	NA	Hopkins	PGDX3149N_Ex_R	NA	NA	NA	Stable Disease
+Hopkins_11	NA	N	NA	Pembrolizumab 10mg q14days	NA	NA	NA	1019	1071	NA	NA	Hopkins	PGDX3150N_Ex_R	492	NA	NA	Stable Disease
+Hopkins_13	NA	N	NA	Pembrolizumab 10mg q14days	NA	NA	NA	NA	NA	NA	NA	Hopkins	PGDX3151N_Ex_R	NA	NA	NA	Progressive Disease
+Hopkins_15	NA	N	NA	Pembrolizumab 10mg q14days	NA	NA	NA	979	1004	NA	NA	Hopkins	PGDX3153N_Ex_R	2345	NA	NA	Partial Response
+Hopkins_16	NA	N	NA	Pembrolizumab 10mg q14days	NA	NA	NA	NA	NA	NA	NA	Hopkins	PGDX3154N_Ex_R	4025	NA	NA	Stable Disease
+Hopkins_19	NA	N	NA	Pembrolizumab 10mg q14days	NA	NA	NA	NA	NA	NA	NA	Hopkins	PGDX3156N_Ex_R	1477	NA	NA	Partial Response
+Hopkins_21	NA	N	NA	Pembrolizumab 10mg q14days	NA	NA	NA	NA	NA	NA	NA	Hopkins	PGDX3157N_Ex_R	NA	NA	NA	Progressive Disease
+Hopkins_22	NA	N	NA	Pembrolizumab 10mg q14days	NA	NA	NA	NA	NA	NA	NA	Hopkins	PGDX3158N_Ex_R	NA	NA	NA	Stable Disease
+Hopkins_17	NA	N	NA	Pembrolizumab 10mg q14days	NA	NA	NA	NA	NA	NA	NA	Hopkins	PGDX3161N_Ex_R	NA	NA	NA	Progressive Disease
+Hopkins_8	NA	N	NA	Pembrolizumab 10mg q14days	NA	NA	NA	NA	NA	NA	NA	Hopkins	PGDX3162N_Ex_R	1681	NA	NA	Partial Response
+Hopkins_1	NA	T	NA	Pembrolizumab 10mg q14days	NA	NA	NA	NA	NA	NA	NA	Hopkins	PGDX3144T_Ex_R	1291	NA	NA	Stable Disease
+Hopkins_4	NA	T	NA	Pembrolizumab 10mg q14days	NA	NA	NA	NA	NA	NA	NA	Hopkins	PGDX3145T_Ex_R	771	NA	NA	Progressive Disease
+Hopkins_6	NA	T	NA	Pembrolizumab 10mg q14days	NA	NA	NA	85	630	630	NA	Hopkins	PGDX3146T_Ex_R	2138	NA	NA	Progressive Disease
+Hopkins_7	NA	T	NA	Pembrolizumab 10mg q14days	NA	NA	NA	NA	NA	NA	NA	Hopkins	PGDX3147T_Ex_R	NA	NA	NA	Progressive Disease
+Hopkins_9	NA	T	NA	Pembrolizumab 10mg q14days	NA	NA	NA	NA	NA	NA	NA	Hopkins	PGDX3148T_Ex_R	1814	NA	NA	Stable Disease
+Hopkins_10	NA	T	NA	Pembrolizumab 10mg q14days	NA	NA	NA	NA	NA	NA	NA	Hopkins	PGDX3149T_Ex_R	NA	NA	NA	Stable Disease
+Hopkins_11	NA	T	NA	Pembrolizumab 10mg q14days	NA	NA	NA	1019	1071	NA	NA	Hopkins	PGDX3150T_Ex_R	492	NA	NA	Stable Disease
+Hopkins_13	NA	T	NA	Pembrolizumab 10mg q14days	NA	NA	NA	NA	NA	NA	NA	Hopkins	PGDX3151T_Ex_R	NA	NA	NA	Progressive Disease
+Hopkins_15	NA	T	NA	Pembrolizumab 10mg q14days	NA	NA	NA	979	1004	NA	NA	Hopkins	PGDX3153T_Ex_R	2345	NA	NA	Partial Response
+Hopkins_16	NA	T	NA	Pembrolizumab 10mg q14days	NA	NA	NA	NA	NA	NA	NA	Hopkins	PGDX3154T_Ex_R	4025	NA	NA	Stable Disease
+Hopkins_19	NA	T	NA	Pembrolizumab 10mg q14days	NA	NA	NA	NA	NA	NA	NA	Hopkins	PGDX3156T_Ex_R	1477	NA	NA	Partial Response
+Hopkins_21	NA	T	NA	Pembrolizumab 10mg q14days	NA	NA	NA	NA	NA	NA	NA	Hopkins	PGDX3157T_Ex_R	NA	NA	NA	Progressive Disease
+Hopkins_22	NA	T	NA	Pembrolizumab 10mg q14days	NA	NA	NA	NA	NA	NA	NA	Hopkins	PGDX3158T_Ex_R	NA	NA	NA	Stable Disease
+Hopkins_17	NA	T	NA	Pembrolizumab 10mg q14days	NA	NA	NA	NA	NA	NA	NA	Hopkins	PGDX3161T_Ex_R	NA	NA	NA	Progressive Disease
+Hopkins_8	NA	T	NA	Pembrolizumab 10mg q14days	NA	NA	NA	NA	NA	NA	NA	Hopkins	PGDX3162T_Ex_R	1681	NA	NA	Partial Response
+1	IV	N	Blood		N	N	NA	NA	542	542	Alive	PRJNA369259	1-N	NA	NA	NA	Progressive Disease
+2	IV	N	Blood		N	N	NA	NA	719	NA	Dead	PRJNA369259	2-N	NA	NA	NA	Progressive Disease
+3	IV	N	Blood		N	N	NA	NA	447	447	Alive	PRJNA369259	3-N	NA	NA	NA	Progressive Disease
+4	IV	N	Blood		N	N	NA	NA	1083	1083	Alive	PRJNA369259	4-N	NA	NA	NA	Progressive Disease
+5	IV	N	Blood		Y	NA	NA	NA	1052	1052	Alive	PRJNA369259	5-N	NA	NA	NA	Partial Response
+6	IV	N	Blood		N	Y	NA	NA	842	842	Alive	PRJNA369259	6-N	NA	NA	NA	Progressive Disease
+7	IV	N	Blood		N	Y	NA	NA	1174	NA	Dead	PRJNA369259	7-N	NA	NA	NA	Partial Response
+9	IV	N	Blood		N	Y	NA	NA	1213	NA	Dead	PRJNA369259	9-N	NA	NA	NA	Stable Disease
+12	IV	N	Blood		Y	NA	NA	NA	835	NA	Dead	PRJNA369259	12-N	NA	NA	NA	Progressive Disease
+15	IV	N	Blood		NA	Y	NA	NA	466	466	Alive	PRJNA369259	15-N	NA	NA	NA	Progressive Disease
+16	IV	N	Blood		N	N	NA	NA	613	613	Alive	PRJNA369259	16-N	NA	NA	NA	Progressive Disease
+18	IV	N	Blood		N	N	NA	NA	539	539	Alive	PRJNA369259	18-N	NA	NA	NA	Progressive Disease
+19	IV	N	Blood		N	N	NA	NA	636	636	Alive	PRJNA369259	19-N	NA	NA	NA	Progressive Disease
+20	IV	N	Blood		N	N	NA	NA	784	NA	Dead	PRJNA369259	20-N	NA	NA	NA	Progressive Disease
+21	IV	N	Blood		N	N	NA	NA	247	247	Alive	PRJNA369259	21-N	NA	NA	NA	Progressive Disease
+22	IV	N	Blood		Y	NA	NA	NA	623	NA	Dead	PRJNA369259	22-N	NA	NA	NA	Partial Response
+23	IV	N	Blood		N	N	NA	NA	670	NA	Dead	PRJNA369259	23-N	NA	NA	NA	Progressive Disease
+24	IV	N	Blood		N	Y	NA	NA	1254	NA	Dead	PRJNA369259	24-N	NA	NA	NA	Stable Disease
+25	IV	N	Blood		N	N	NA	NA	894	894	Alive	PRJNA369259	25-N	NA	NA	NA	Progressive Disease
+26	IV	N	Blood		N	N	NA	NA	1256	1256	Alive	PRJNA369259	26-N	NA	NA	NA	Progressive Disease
+28	IV	N	Blood		N	N	NA	NA	314	314	Alive	PRJNA369259	28-N	NA	NA	NA	Progressive Disease
+29	IV	N	Blood		N	N	NA	NA	548	548	Alive	PRJNA369259	29-N	NA	NA	NA	Progressive Disease
+31	IV	N	Blood		Y	NA	NA	NA	1790	NA	Dead	PRJNA369259	31-N	NA	NA	NA	Progressive Disease
+32	IV	N	Blood		N	N	NA	NA	927	NA	Dead	PRJNA369259	32-N	NA	NA	NA	Progressive Disease
+33	IV	N	Blood		N	N	NA	NA	359	359	Alive	PRJNA369259	33-N	NA	NA	NA	Progressive Disease
+34	IV	N	Blood		N	Y	NA	NA	608	NA	Dead	PRJNA369259	34-N	NA	NA	NA	Partial Response
+37	IV	N	Blood		Y	NA	NA	NA	551	551	Alive	PRJNA369259	37-N	NA	NA	NA	Partial Response
+41	IV	N	Blood		N	N	NA	NA	861	NA	Dead	PRJNA369259	41-N	NA	NA	NA	Progressive Disease
+42	IV	N	Blood		N	N	NA	NA	2111	NA	Dead	PRJNA369259	42-N	NA	NA	NA	Progressive Disease
+45	IV	N	Blood		N	N	NA	NA	1320	NA	Dead	PRJNA369259	45-N	NA	NA	NA	Progressive Disease
+47	IV	N	Blood		N	Y	NA	NA	1092	NA	Dead	PRJNA369259	47-N	NA	NA	NA	Partial Response
+49	IV	N	Blood		N	N	NA	NA	1094	1094	Alive	PRJNA369259	49-N	NA	NA	NA	Progressive Disease
+50	IV	N	Blood		N	N	NA	NA	1616	NA	Dead	PRJNA369259	50-N	NA	NA	NA	Progressive Disease
+53	IV	N	Blood		N	N	NA	NA	277	277	Alive	PRJNA369259	53-N	NA	NA	NA	Progressive Disease
+54	IV	N	Blood		N	N	NA	NA	714	NA	Dead	PRJNA369259	54-N	NA	NA	NA	Progressive Disease
+31	IV	T	NA		Y	NA	NA	NA	1790	NA	Dead	PRJNA369259	31A	819	NA	997	Progressive Disease
+34	IV	T	NA		N	Y	NA	NA	608	NA	Dead	PRJNA369259	34A	3123	NA	5628	Partial Response
+50	IV	T	NA		N	N	NA	NA	1616	NA	Dead	PRJNA369259	50A	3445	NA	6037	Progressive Disease
+9	IV	T	NA		N	Y	NA	NA	1213	NA	Dead	PRJNA369259	9A	84	NA	117	Stable Disease
+5	IV	T	NA		Y	NA	NA	NA	1052	1052	Alive	PRJNA369259	5A	404	NA	296	Partial Response
+7	IV	T	NA		N	Y	NA	NA	1174	NA	Dead	PRJNA369259	7A	67	NA	115	Partial Response
+25	IV	T	NA		N	N	NA	NA	894	894	Alive	PRJNA369259	25A	273	NA	477	Progressive Disease
+32	IV	T	NA		N	N	NA	NA	927	NA	Dead	PRJNA369259	32A	77	NA	72	Progressive Disease
+47	IV	T	NA		N	Y	NA	NA	1092	NA	Dead	PRJNA369259	47A	2047	NA	2958	Partial Response
+41	IV	T	NA		N	N	NA	NA	861	NA	Dead	PRJNA369259	41A	172	NA	176	Progressive Disease
+20	IV	T	NA		N	N	NA	NA	784	NA	Dead	PRJNA369259	20A	2520	NA	3982	Progressive Disease
+33	IV	T	NA		N	N	NA	NA	359	359	Alive	PRJNA369259	33A	232	NA	266	Progressive Disease
+12	IV	T	NA		Y	NA	NA	NA	835	NA	Dead	PRJNA369259	12A	242	NA	311	Progressive Disease
+54	IV	T	NA		N	N	NA	NA	714	NA	Dead	PRJNA369259	54A	514	NA	686	Progressive Disease
+18	IV	T	NA		N	N	NA	NA	539	539	Alive	PRJNA369259	18A	71	NA	124	Progressive Disease
+28	IV	T	NA		N	N	NA	NA	314	314	Alive	PRJNA369259	28A	596	NA	372	Progressive Disease
+53	IV	T	NA		N	N	NA	NA	277	277	Alive	PRJNA369259	53A	555	NA	1114	Progressive Disease
+22	IV	T	NA		Y	NA	NA	NA	623	NA	Dead	PRJNA369259	22A	589	NA	901	Partial Response
+23	IV	T	NA		N	N	NA	NA	670	NA	Dead	PRJNA369259	23A	69	NA	75	Progressive Disease
+6	IV	T	NA		N	Y	NA	NA	842	842	Alive	PRJNA369259	6B	63	NA	52	Progressive Disease
+22	IV	T	NA		Y	NA	NA	NA	623	NA	Dead	PRJNA369259	22B	52	NA	74	Partial Response
+37	IV	T	NA		Y	NA	NA	NA	551	551	Alive	PRJNA369259	37B	78	NA	155	Partial Response
+18	IV	T	NA		N	N	NA	NA	539	539	Alive	PRJNA369259	18C	64	NA	103	Progressive Disease
+45	IV	T	NA		N	N	NA	NA	1320	NA	Dead	PRJNA369259	45C	358	NA	350	Progressive Disease
+24	IV	T	NA		N	Y	NA	NA	1254	NA	Dead	PRJNA369259	24C	1101	NA	1110	Stable Disease
+33	IV	T	NA		N	N	NA	NA	359	359	Alive	PRJNA369259	33C	611	NA	627	Progressive Disease
+50	IV	T	NA		N	N	NA	NA	1616	NA	Dead	PRJNA369259	50C	3388	NA	5961	Progressive Disease
+15	IV	T	NA		NA	Y	NA	NA	466	466	Alive	PRJNA369259	15C	842	NA	1453	Progressive Disease
+9	IV	T	NA		N	Y	NA	NA	1213	NA	Dead	PRJNA369259	9C	90	NA	122	Stable Disease
+26	IV	T	NA		N	N	NA	NA	1256	1256	Alive	PRJNA369259	26C	1365	NA	2852	Progressive Disease
+29	IV	T	NA		N	N	NA	NA	548	548	Alive	PRJNA369259	29C	316	NA	161	Progressive Disease
+25	IV	T	NA		N	N	NA	NA	894	894	Alive	PRJNA369259	25C	266	NA	551	Progressive Disease
+16	IV	T	NA		N	N	NA	NA	613	613	Alive	PRJNA369259	16C	883	NA	1286	Progressive Disease
+21	IV	T	NA		N	N	NA	NA	247	247	Alive	PRJNA369259	21C	647	NA	1039	Progressive Disease
+54	IV	T	NA		N	N	NA	NA	714	NA	Dead	PRJNA369259	54C	484	NA	608	Progressive Disease
+3	IV	T	NA		N	N	NA	NA	447	447	Alive	PRJNA369259	3C	328	NA	499	Progressive Disease
+4	IV	T	NA		N	N	NA	NA	1083	1083	Alive	PRJNA369259	4D	128	NA	301	Progressive Disease
+7	IV	T	NA		N	Y	NA	NA	1174	NA	Dead	PRJNA369259	7D	18	NA	25	Partial Response
+9	IV	T	NA		N	Y	NA	NA	1213	NA	Dead	PRJNA369259	9D	63	NA	103	Stable Disease
+1	IV	T	NA		N	N	NA	NA	542	542	Alive	PRJNA369259	1D	108	NA	144	Progressive Disease
+19	IV	T	NA		N	N	NA	NA	636	636	Alive	PRJNA369259	19D	609	NA	888	Progressive Disease
+16	IV	T	NA		N	N	NA	NA	613	613	Alive	PRJNA369259	16D	895	NA	1562	Progressive Disease
+28	IV	T	NA		N	N	NA	NA	314	314	Alive	PRJNA369259	28D	610	NA	371	Progressive Disease
+47	IV	T	NA		N	Y	NA	NA	1092	NA	Dead	PRJNA369259	47D	299	NA	438	Partial Response
+3	IV	T	NA		N	N	NA	NA	447	447	Alive	PRJNA369259	3D1	119	NA	144	Progressive Disease
+3	IV	T	NA		N	N	NA	NA	447	447	Alive	PRJNA369259	3D2	137	NA	176	Progressive Disease
+53	IV	T	NA		N	N	NA	NA	277	277	Alive	PRJNA369259	53D	631	NA	1416	Progressive Disease
+26	IV	T	NA		N	N	NA	NA	1256	1256	Alive	PRJNA369259	26E	1259	NA	2619	Progressive Disease
+49	IV	T	NA		N	N	NA	NA	1094	1094	Alive	PRJNA369259	49E	1439	NA	2473	Progressive Disease
+20	IV	T	NA		N	N	NA	NA	784	NA	Dead	PRJNA369259	20E	2484	NA	3950	Progressive Disease
+42	IV	T	NA		N	N	NA	NA	2111	NA	Dead	PRJNA369259	42E	212	NA	287	Progressive Disease
+45	IV	T	NA		N	N	NA	NA	1320	NA	Dead	PRJNA369259	45E	499	NA	184	Progressive Disease
+2	IV	T	NA		N	N	NA	NA	719	NA	Dead	PRJNA369259	2E	211	NA	172	Progressive Disease
+Hopkins_6_101		T	Brain		NA	N	NA	NA	NA	NA	NA	Hopkins2		949	NA	NA	Progressive Disease
+Hopkins_4_002_recurrent		T	Brain		NA	N	NA	NA	NA	NA	NA	Hopkins2		1059	NA	NA	Progressive Disease
+Hopkins_4_002		T	Bowel (small)		NA	Y	NA	140	590	NA	NA	Hopkins2		904	NA	NA	Partial Response
+Hopkins_44		T	Bowel (ampulla)		NA	NA	NA	NA	NA	NA	NA	Hopkins2		2294	NA	NA	
+Hopkins_52		T	Bowel (large)		NA	NA	NA	NA	NA	NA	NA	Hopkins2		478	NA	NA	
+Hopkins_29		T	Lymph Node (paraaortic)		NA	Y	NA	NA	NA	NA	NA	Hopkins2		1200	NA	NA	Complete Response
+Hopkins_25		T	Bowel (small)		NA	Y	NA	NA	NA	NA	NA	Hopkins2		1361	NA	NA	Partial Response
+Hopkins_25		T	Brain		NA	N	NA	NA	NA	NA	NA	Hopkins2		1407	NA	NA	Progressive Disease
+Hopkins_42		T	Bowel (large)		NA	NA	NA	NA	NA	NA	NA	Hopkins2		367	NA	NA	
+Hopkins_36		T	Bowel (large)		NA	NA	NA	NA	NA	NA	NA	Hopkins2		1838	NA	NA	Stable Disease
+Hopkins_30		T	Bowel (rectum)		NA	Y	NA	NA	NA	NA	NA	Hopkins2		2282	NA	NA	Partial Response
+Hopkins_20		T	Bowel (ampulla)		NA	Y	NA	NA	NA	NA	NA	Hopkins2		4650	NA	NA	Partial Response
+Hopkins_33		T	Bowel (large)		NA	N	NA	NA	NA	NA	NA	Hopkins2		1330	NA	NA	Progressive Disease
+Hopkins_31		T	Bowel (large)		NA	Y	NA	NA	NA	NA	NA	Hopkins2		941	NA	NA	Partial Response
+Hopkins_6_101		N	Thyroid		NA	N	NA	NA	NA	NA	NA	Hopkins2		949	NA	NA	Progressive Disease
+Hopkins_4_002_recurrent		N	Blood		NA	NA	NA	NA	NA	NA	NA	Hopkins2		1059	NA	NA	
+Hopkins_4_002		N	Blood		NA	NA	NA	140	590	NA	NA	Hopkins2		904	NA	NA	
+Hopkins_44		N	Blood		NA	NA	NA	NA	NA	NA	NA	Hopkins2		2294	NA	NA	
+Hopkins_52		N	Blood		NA	NA	NA	NA	NA	NA	NA	Hopkins2		478	NA	NA	
+Hopkins_29		N	Blood		NA	Y	NA	NA	NA	NA	NA	Hopkins2		1200	NA	NA	Complete Response
+Hopkins_25		N	Blood		NA	Y	NA	NA	NA	NA	NA	Hopkins2		1361	NA	NA	Partial Response
+Hopkins_42		N	Blood		NA	NA	NA	NA	NA	NA	NA	Hopkins2		367	NA	NA	
+Hopkins_36		N	Blood		NA	NA	NA	NA	NA	NA	NA	Hopkins2		1838	NA	NA	Stable Disease
+Hopkins_30		N	Blood		NA	Y	NA	NA	NA	NA	NA	Hopkins2		2282	NA	NA	Partial Response
+Hopkins_20		N	Blood		NA	Y	NA	NA	NA	NA	NA	Hopkins2		4650	NA	NA	Partial Response
+Hopkins_33		N	Blood		NA	N	NA	NA	NA	NA	NA	Hopkins2		1330	NA	NA	Progressive Disease
+Hopkins_31		N	Blood		NA	Y	NA	NA	NA	NA	NA	Hopkins2		941	NA	NA	Partial Response
+11025_01	IV	T	Lymph Node		NA	Y	NA	973	973	973	NA	Spellman11025		NA	NA	NA	Partial Response
+11025_01	IV	N	Blood		NA	Y	NA	973	973	973	NA	Spellman11025		NA	NA	NA	Partial Response
+11025_10	IV	T	Liver		NA	Y	NA	714	714	714	NA	Spellman11025		NA	NA	NA	Partial Response
+11025_10	IV	N	Blood		NA	Y	NA	714	714	714	NA	Spellman11025		NA	NA	NA	Partial Response
+11025_17	IV	T	Lymph Node		NA	N	NA	105	672	672	NA	Spellman11025		NA	NA	NA	Progressive Disease
+11025_17	IV	N	Blood		NA	N	NA	105	672	672	NA	Spellman11025		NA	NA	NA	Progressive Disease
+11025_12	IV	T	Lymph Node		NA	N	NA	91	348	NA	NA	Spellman11025		NA	NA	NA	Stable Disease
+11025_12	IV	N	Blood		NA	N	NA	91	348	NA	NA	Spellman11025		NA	NA	NA	Stable Disease
+11025_13	IV	T	Bone		NA	N	NA	84	690	690	NA	Spellman11025		NA	NA	NA	Stable Disease
+11025_13	IV	N	Blood		NA	N	NA	84	690	690	NA	Spellman11025		NA	NA	NA	Stable Disease
+11025_22	IV	T	Soft tissue (ischioanal fossa)		NA	N	NA	105	608	608	NA	Spellman11025		NA	NA	NA	Progressive Disease
+11025_22	IV	N	Blood		NA	N	NA	105	608	608	NA	Spellman11025		NA	NA	NA	Progressive Disease
+11025_26	IV	T	Liver		NA	Y	NA	300	544	544	NA	Spellman11025		NA	NA	NA	Partial Response
+11025_26	IV	N	Blood		NA	Y	NA	300	544	544	NA	Spellman11025		NA	NA	NA	Partial Response
+11025_27	IV	T	Lymph Node		NA	N	NA	99	576	NA	NA	Spellman11025		NA	NA	NA	Stable Disease
+11025_27	IV	N	Blood		NA	N	NA	99	576	NA	NA	Spellman11025		NA	NA	NA	Stable Disease
+11025_28	IV	T	Lymph Node		NA	N	NA	84	407	NA	NA	Spellman11025		NA	NA	NA	Progressive Disease
+11025_28	IV	N	Blood		NA	N	NA	84	407	NA	NA	Spellman11025		NA	NA	NA	Progressive Disease
+11025_35	IV	T	NA		NA	NA	NA	NA	NA	NA	NA	Spellman11025		NA	NA	NA	NA
+11025_35	IV	N	Blood		NA	NA	NA	NA	NA	NA	NA	Spellman11025		NA	NA	NA	NA
+RCC_504642		N	Blood	Nivolumab	NA	N	NA	41	102	NA	NA	PRJNA420786	SRR6447675	NA	NA	NA	Progressive Disease
+RCC_51974086		N	Blood	Nivolumab	NA	Y	NA	220	456	NA	NA	PRJNA420786	SRR6447676	NA	NA	NA	Stable Disease (intermediate benefit)
+RCC_554652		N	Blood	Nivolumab	NA	Y	NA	336	484	484	NA	PRJNA420786	SRR6447677	NA	NA	NA	Partial Response
+RCC_470874		N	Blood	Nivolumab	NA	N	NA	42	247	NA	NA	PRJNA420786	SRR6447680	NA	NA	NA	Progressive Disease
+RCC_390392		N	Blood	Nivolumab	NA	Y	NA	55	174	174	NA	PRJNA420786	SRR6447678	NA	NA	NA	Stable Disease (intermediate benefit)
+RCC_371982		N	Blood	Nivolumab	NA	N	NA	71	448	NA	NA	PRJNA420786	SRR6447681	NA	NA	NA	Progressive Disease
+RCC_281066		N	Blood	Nivolumab	NA	Y	NA	460	460	460	NA	PRJNA420786	SRR6447690	NA	NA	NA	Stable Disease (intermediate benefit)
+RCC_371982		T	NA	Nivolumab	NA	N	NA	71	448	NA	NA	PRJNA420786	SRR6450222	NA	NA	NA	Progressive Disease
+RCC_51974086		T	NA	Nivolumab	NA	Y	NA	220	456	NA	NA	PRJNA420786	SRR6450227	NA	NA	NA	Stable Disease (intermediate benefit)
+RCC_281066		T	NA	Nivolumab	NA	Y	NA	460	460	460	NA	PRJNA420786	SRR6450224	NA	NA	NA	Stable Disease (intermediate benefit)
+IM_001		N	Blood	Nivolumab	NA	Y	NA	280	379	NA	NA	PRJNA420786	SRR6450223	NA	NA	NA	Partial Response
+IM_002		N	Blood	Nivolumab	NA	Y	NA	735	NA	NA	NA	PRJNA420786	SRR6450225	NA	NA	NA	Stable Disease
+RCC_470874		T	NA	Nivolumab	NA	N	NA	42	247	NA	NA	PRJNA420786	SRR6450226	NA	NA	NA	Progressive Disease
+15349_CCPM_0600855		T	Metastasis	Nivolumab	NA	Y	NA	499	499	499	NA	PRJNA420786	SRR6450189	NA	NA	NA	Partial Response
+PD_026		N	Blood	Nivolumab	NA	Y	NA	171	377	377	NA	PRJNA420786	SRR6461142	NA	NA	NA	Stable Disease (intermediate benefit)
+PD_025		N	Blood	Nivolumab	NA	Y	NA	333	1724	1724	NA	PRJNA420786	SRR6461143	NA	NA	NA	Stable Disease
+PD_014		N	Blood	Nivolumab + Ipilimumab	Y	Y	NA	433	433	433	NA	PRJNA420786	SRR6461145	NA	NA	NA	Stable Disease
+PD_012		N	Blood	Atezolizumab	NA	N	NA	61	581	581	NA	PRJNA420786	SRR6461146	NA	NA	NA	Progressive Disease
+PD_011		N	Blood	Nivolumab	NA	N	NA	205	327	NA	NA	PRJNA420786	SRR6461148	NA	NA	NA	Progressive Disease (intermediate benefit)
+IM_002		T	NA	Nivolumab	NA	Y	NA	735	735	735	NA	PRJNA420786	SRR6461147	NA	NA	NA	Stable Disease
+PD_005		N	Blood	Nivolumab	NA	N	NA	168	277	277	NA	PRJNA420786	SRR6461151	NA	NA	NA	Progressive Disease (intermediate benefit)
+PD_015		N	Blood	Nivolumab	NA	N	NA	105	814	NA	NA	PRJNA420786	SRR6461152	NA	NA	NA	Progressive Disease (intermediate benefit)
+PD_007		N	Blood	Nivolumab + Ipilimumab	Y	Y	NA	448	448	448	NA	PRJNA420786	SRR6461144	NA	NA	NA	Partial Response
+PD_030		N	Blood		NA		NA	NA	NA	NA	NA	PRJNA420786	SRR6461149	NA	NA	NA	
+PD_018		N	Blood	Nivolumab	NA	Y	NA	672	1189	NA	NA	PRJNA420786	SRR6461153	NA	NA	NA	Partial Response
+RCC_504642		T	NA	Nivolumab	NA	N	NA	41	102	NA	NA	PRJNA420786	SRR6450228	NA	NA	NA	Progressive Disease
+RCC_472770		T	NA	Nivolumab	NA	N	NA	84	558	NA	NA	PRJNA420786	SRR6450230	NA	NA	NA	Progressive Disease
+RCC_390392		T	NA	Nivolumab	NA	Y	NA	55	174	174	NA	PRJNA420786	SRR6450229	NA	NA	NA	Stable Disease (intermediate benefit)
+RCC_509214		T	NA	Nivolumab	NA	Y	NA	204	370	NA	NA	PRJNA420786	SRR6450231	NA	NA	NA	Partial Response
+RCC_554652		T	NA	Nivolumab	NA	Y	NA	336	484	484	NA	PRJNA420786	SRR6450232	NA	NA	NA	Partial Response
+PD_023		N	Blood	Atezolizumab	NA	Y	NA	637	637	637	NA	PRJNA420786	SRR6461154	NA	NA	NA	Partial Response
+PD_020		N	Blood	Nivolumab	NA	N	NA	47	203	203	NA	PRJNA420786	SRR6461157	NA	NA	NA	Progressive Disease
+PD_021		N	Blood	Nivolumab	NA	N	NA	68	185	NA	NA	PRJNA420786	SRR6461156	NA	NA	NA	Progressive Disease
+PD_019		N	Blood	Nivolumab	NA	Y	NA	220	230	230	NA	PRJNA420786	SRR6461158	NA	NA	NA	Stable Disease
+PD_010		N	Blood	Nivolumab + Ipilimumab	Y	Y	NA	454	454	NA	NA	PRJNA420786	SRR6461160	NA	NA	NA	Complete Response
+RCC.PD1.DNA.1026		N	Blood	Nivolumab	NA	Y	NA	949	1442	1442	NA	PRJNA420786	SRR6461161	NA	NA	NA	Complete Response
+RCC.PD1.DNA.1026		T	NA	Nivolumab	NA	Y	NA	949	1442	1442	NA	PRJNA420786	SRR6461164	NA	NA	NA	Complete Response
+RCC.PD1.DNA.1101		N	Blood	Nivolumab	NA	Y	NA	163	440	NA	NA	PRJNA420786	SRR6461176	NA	NA	NA	Stable Disease (intermediate benefit)
+RCC.PD1.DNA.944		T	NA	Nivolumab	NA	N	NA	36	470	NA	NA	PRJNA420786	SRR6461175	NA	NA	NA	Progressive Disease
+RCC.PD1.DNA.949		T	NA	Nivolumab	NA	Y	NA	246	364	NA	NA	PRJNA420786	SRR6461177	NA	NA	NA	Partial Response
+RCC.PD1.DNA.944		N	Blood	Nivolumab	NA	N	NA	36	470	NA	NA	PRJNA420786	SRR6461178	NA	NA	NA	Progressive Disease
+RCC.PD1.DNA.949		N	Blood	Nivolumab	NA	Y	NA	246	364	NA	NA	PRJNA420786	SRR6461179	NA	NA	NA	Partial Response
+15349_CCPM_0600862		T	Metastasis	Nivolumab	NA	N	NA	66	293	293	NA	PRJNA420786	SRR6461181	NA	NA	NA	Progressive Disease
+15349_CCPM_0600862		N	Blood	Nivolumab	NA	N	NA	66	293	293	NA	PRJNA420786	SRR6461182	NA	NA	NA	Progressive Disease
+RCC.PD1.DNA.1137		T	NA	Nivolumab	NA	Y	NA	119	1584	1584	NA	PRJNA420786	SRR6461180	NA	NA	NA	Stable Disease (intermediate benefit)
+PD_030		T	NA	Nivolumab	NA	NA	NA	NA	NA	NA	NA	PRJNA420786	SRR6461169	NA	NA	NA	Mixed Response
+RCC.PD1.DNA.1101		T	NA	Nivolumab	NA	Y	NA	163	440	NA	NA	PRJNA420786	SRR6461171	NA	NA	NA	Stable Disease (intermediate benefit)
+RCC.PD1.DNA.1137		N	Blood	Nivolumab	NA	Y	NA	119	1584	1584	NA	PRJNA420786	SRR6461174	NA	NA	NA	Stable Disease (intermediate benefit)
+15349_CCPM_0600862		T	Metastasis	Nivolumab	NA	N	NA	66	293	293	NA	PRJNA420786	SRR6504582	NA	NA	NA	Progressive Disease
+IM_001		T	NA	Nivolumab		Y	NA	280	379	NA	NA	PRJNA420786	SRR6504838	NA	NA	NA	Partial Response
+RCC_472770		N	Blood			NA	NA	NA	NA	NA	NA	PRJNA420786	SRR6504837	NA	NA	NA	
+PD_024		N	Blood	Nivolumab	NA	N	NA	41	304	NA	NA	PRJNA420786	SRR6504839	NA	NA	NA	Progressive Disease
+PD_022		N	Blood	Nivolumab	NA	N	NA	80	247	247	NA	PRJNA420786	SRR6504841	NA	NA	NA	Progressive Disease
+RCC_509214		N	Blood	Nivolumab	NA	Y	NA	204	370	NA	NA	PRJNA420786	SRR6504836	NA	NA	NA	Partial Response
+15349_CCPM_0600855		N	Blood	Nivolumab	NA	Y	NA	499	499	499	NA	PRJNA420786	SRR6511548	NA	NA	NA	Partial Response
+PD_013		N	Blood	Nivolumab + Ipilimumab	Y	Y	NA	399	399	399	NA	PRJNA420786	SRR6511549	NA	NA	NA	Partial Response
+RCC_115		N	Blood	nivolumab 2 mg/kg		intermediate benefit	NA	87	366	366	NA	PRJNA420786	SRR6468263	64	90	NA	Stable Disease
+RCC_20		N	Blood	nivolumab 10 mg/kg-N		Y	NA	1022	1065	1065	NA	PRJNA420786	SRR6468264	50	80	NA	Complete Response
+RCC_105		T	Metastasis	nivolumab 10 mg/kg		N	NA	45	118	NA	NA	PRJNA420786	SRR6468265	105	152	NA	Progressive Disease
+RCC_119		N	Blood	nivolumab 10 mg/kg		Y	NA	414	773	773	NA	PRJNA420786	SRR6468266	62	97	NA	Partial Response
+RCC_15		N	Blood	nivolumab 10 mg/kg-N		Y	NA	663	1013	NA	NA	PRJNA420786	SRR6468267	75	110	NA	Stable Disease
+RCC_106		T	Metastasis	nivolumab 2 mg/kg		Y	NA	821	870	870	NA	PRJNA420786	SRR6468300	76	194	NA	Partial Response
+RCC_21		T	Metastasis	nivolumab 10 mg/kg		intermediate benefit	NA	43	349	349	NA	PRJNA420786	SRR6468301	82	128	NA	Stable Disease
+RCC_20		T	Metastasis	nivolumab 10 mg/kg-N		Y	NA	1022	1065	1065	NA	PRJNA420786	SRR6468302	50	80	NA	Complete Response
+RCC_10		N	Blood	nivolumab 10 mg/kg-N		intermediate benefit	NA	173	1058	1058	NA	PRJNA420786	SRR6468303	85	135	NA	Stable Disease
+RCC_21		N	Blood	nivolumab 10 mg/kg		intermediate benefit	NA	43	349	349	NA	PRJNA420786	SRR6468304	82	128	NA	Stable Disease
+RCC_90		N	Blood	nivolumab 0.3 mg/kg		N	NA	36	499	NA	NA	PRJNA420786	SRR6468305	102	140	NA	Progressive Disease
+RCC_41		T	Metastasis	nivolumab 10 mg/kg		N	NA	42	195	195	NA	PRJNA420786	SRR6468306	73	102	NA	Progressive Disease
+RCC_11		T	Metastasis	nivolumab 10 mg/kg-N		intermediate benefit	NA	122	1024	1024	NA	PRJNA420786	SRR6468307	63	100	NA	Stable Disease
+RCC_97		N	Blood	nivolumab 2 mg/kg		N	NA	37	871	871	NA	PRJNA420786	SRR6468308	82	116	NA	Progressive Disease
+RCC_73		N	Blood	nivolumab 2 mg/kg		N	NA	58	178	NA	NA	PRJNA420786	SRR6468309	45	70	NA	Progressive Disease
+RCC_79		N	Blood	nivolumab 2 mg/kg		intermediate benefit	NA	130	873	873	NA	PRJNA420786	SRR6468310	54	78	NA	Stable Disease
+RCC_119		T	Metastasis	nivolumab 10 mg/kg		Y	NA	414	773	773	NA	PRJNA420786	SRR6468311	62	97	NA	Partial Response
+RCC_106		N	Blood	nivolumab 2 mg/kg		Y	NA	821	870	870	NA	PRJNA420786	SRR6468312	76	194	NA	Partial Response
+RCC_1		N	Blood	nivolumab 10 mg/kg		N	NA	38	43	43	NA	PRJNA420786	SRR6468313	61	84	NA	Progressive Disease
+RCC_25		N	Blood	nivolumab 10 mg/kg-N		N	NA	39	167	NA	NA	PRJNA420786	SRR6468314	113	157	NA	Progressive Disease
+RCC_52		N	Blood	nivolumab 10 mg/kg-N		Y	NA	246	995	995	NA	PRJNA420786	SRR6468315	94	125	NA	Stable Disease
+RCC_79		T	Metastasis	nivolumab 2 mg/kg		intermediate benefit	NA	130	873	873	NA	PRJNA420786	SRR6468316	54	78	NA	Stable Disease
+RCC_105		N	Blood	nivolumab 10 mg/kg		N	NA	45	118	NA	NA	PRJNA420786	SRR6468317	105	152	NA	Progressive Disease
+RCC_18		T	Metastasis	nivolumab 0.3 mg/kg		N	NA	43	111	111	NA	PRJNA420786	SRR6468318	61	81	NA	Progressive Disease
+RCC_93		N	Blood	nivolumab 10 mg/kg		Y	NA	500	684	NA	NA	PRJNA420786	SRR6468319	91	125	NA	Partial Response
+RCC_99		T	Metastasis	nivolumab 2 mg/kg		N	NA	41	41	NA	NA	PRJNA420786	SRR6468320	102	155	NA	Progressive Disease
+RCC_58		T	Metastasis	nivolumab 2 mg/kg		Y	NA	687	988	988	NA	PRJNA420786	SRR6468321	60	82	NA	Partial Response
+RCC_58		N	Blood	nivolumab 2 mg/kg		Y	NA	687	988	988	NA	PRJNA420786	SRR6468322	60	82	NA	Partial Response
+RCC_114		N	Blood	nivolumab 0.3 mg/kg		Y	NA	208	340	340	NA	PRJNA420786	SRR6468323	59	83	NA	Partial Response
+RCC_73		T	Metastasis	nivolumab 2 mg/kg		N	NA	58	178	NA	NA	PRJNA420786	SRR6468324	45	70	NA	Progressive Disease
+RCC_14		T	Metastasis	nivolumab 10 mg/kg-N		Y	NA	541	1025	1025	NA	PRJNA420786	SRR6468325	86	128	NA	Partial Response
+RCC_15		T	Metastasis	nivolumab 10 mg/kg-N		Y	NA	663	1013	NA	NA	PRJNA420786	SRR6468326	75	110	NA	Stable Disease
+RCC_117		T	Metastasis	nivolumab 10 mg/kg-N		intermediate benefit	NA	38	64	64	NA	PRJNA420786	SRR6468327	65	86	NA	Stable Disease
+RCC_114		T	Metastasis	nivolumab 0.3 mg/kg		Y	NA	208	340	340	NA	PRJNA420786	SRR6468328	59	83	NA	Partial Response
+RCC_115		T	Metastasis	nivolumab 2 mg/kg		intermediate benefit	NA	87	366	366	NA	PRJNA420786	SRR6468329	64	90	NA	Stable Disease
+RCC_85		T	Metastasis	nivolumab 2 mg/kg		intermediate benefit	NA	42	712	NA	NA	PRJNA420786	SRR6468330	52	83	NA	Stable Disease
+RCC_90		T	Metastasis	nivolumab 0.3 mg/kg		N	NA	36	499	NA	NA	PRJNA420786	SRR6468331	102	140	NA	Progressive Disease
+RCC_1		T	Metastasis	nivolumab 10 mg/kg		N	NA	38	43	43	NA	PRJNA420786	SRR6468332	61	84	NA	Progressive Disease
+RCC_96		T	Metastasis	nivolumab 2 mg/kg		N	NA	37	582	582	NA	PRJNA420786	SRR6468333	157	255	NA	Progressive Disease
+RCC_62		N	Blood	nivolumab 10 mg/kg		intermediate benefit	NA	87	106	106	NA	PRJNA420786	SRR6468334	82	110	NA	Stable Disease
+RCC_102		N	Blood	nivolumab 0.3 mg/kg		intermediate benefit	NA	108	165	165	NA	PRJNA420786	SRR6468335	115	166	NA	Stable Disease
+RCC_84		T	Metastasis	nivolumab 0.3 mg/kg		intermediate benefit	NA	88	680	NA	NA	PRJNA420786	SRR6468336	87	117	NA	Stable Disease
+RCC_27		N	Blood	nivolumab 0.3 mg/kg		N	NA	35	968	968	NA	PRJNA420786	SRR6468337	98	128	NA	Progressive Disease
+RCC_68		N	Blood	nivolumab 0.3 mg/kg		N	NA	39	740	NA	NA	PRJNA420786	SRR6468338	102	132	NA	Progressive Disease
+RCC_10		T	Metastasis	nivolumab 10 mg/kg-N		intermediate benefit	NA	173	1058	1058	NA	PRJNA420786	SRR6468339	85	135	NA	Stable Disease
+RCC_117		N	Blood	nivolumab 10 mg/kg-N		intermediate benefit	NA	38	64	64	NA	PRJNA420786	SRR6468340	65	86	NA	Stable Disease
+RCC_97		T	Metastasis	nivolumab 2 mg/kg		N	NA	37	871	871	NA	PRJNA420786	SRR6468341	82	116	NA	Progressive Disease
+RCC_32		N	Blood	nivolumab 10 mg/kg-N		Y	NA	213	240	NA	NA	PRJNA420786	SRR6468342	89	125	NA	Stable Disease
+RCC_50		N	Blood	nivolumab 10 mg/kg-N		Y	NA	86	982	982	NA	PRJNA420786	SRR6468343	126	171	NA	Stable Disease
+RCC_41		N	Blood	nivolumab 10 mg/kg		N	NA	42	195	195	NA	PRJNA420786	SRR6468344	73	102	NA	Progressive Disease
+RCC_93		T	Metastasis	nivolumab 10 mg/kg		Y	NA	500	684	NA	NA	PRJNA420786	SRR6468345	91	125	NA	Partial Response
+RCC_56		N	Blood	nivolumab 2 mg/kg		intermediate benefit	NA	81	992	992	NA	PRJNA420786	SRR6468346	102	125	NA	Stable Disease
+RCC_62		T	Metastasis	nivolumab 10 mg/kg		intermediate benefit	NA	87	106	106	NA	PRJNA420786	SRR6468347	82	110	NA	Stable Disease
+RCC_39		T	Metastasis	nivolumab 0.3 mg/kg		N	NA	37	306	NA	NA	PRJNA420786	SRR6468348	86	126	NA	Progressive Disease
+RCC_56		T	Metastasis	nivolumab 2 mg/kg		intermediate benefit	NA	81	992	992	NA	PRJNA420786	SRR6468373	102	125	NA	Stable Disease
+RCC_102		T	Metastasis	nivolumab 0.3 mg/kg		intermediate benefit	NA	108	165	165	NA	PRJNA420786	SRR6468374	115	166	NA	Stable Disease
+RCC_27		T	Metastasis	nivolumab 0.3 mg/kg		N	NA	35	968	968	NA	PRJNA420786	SRR6468375	98	128	NA	Progressive Disease
+RCC_68		T	Metastasis	nivolumab 0.3 mg/kg		N	NA	39	740	NA	NA	PRJNA420786	SRR6504583	102	132	NA	Progressive Disease
+RCC_96		N	Blood	nivolumab 2 mg/kg		N	NA	37	582	582	NA	PRJNA420786	SRR6504584	157	255	NA	Progressive Disease
+RCC_84		N	Blood	nivolumab 0.3 mg/kg		intermediate benefit	NA	88	680	NA	NA	PRJNA420786	SRR6504585	87	117	NA	Stable Disease
+RCC_25		T	Metastasis	nivolumab 10 mg/kg-N		N	NA	39	167	NA	NA	PRJNA420786	SRR6504586	113	157	NA	Progressive Disease
+RCC_11		N	Blood	nivolumab 10 mg/kg-N		intermediate benefit	NA	122	1024	1024	NA	PRJNA420786	SRR6504587	63	100	NA	Stable Disease
+RCC_52		T	Metastasis	nivolumab 10 mg/kg-N		Y	NA	246	995	995	NA	PRJNA420786	SRR6504588	94	125	NA	Stable Disease
+RCC_32		T	Metastasis	nivolumab 10 mg/kg-N		Y	NA	213	240	NA	NA	PRJNA420786	SRR6504589	89	125	NA	Stable Disease
+RCC_39		N	Blood	nivolumab 0.3 mg/kg		N	NA	37	306	NA	NA	PRJNA420786	SRR6504590	86	126	NA	Progressive Disease
+RCC_18		N	Blood	nivolumab 0.3 mg/kg		N	NA	43	111	111	NA	PRJNA420786	SRR6504591	61	81	NA	Progressive Disease
+RCC_14		N	Blood	nivolumab 10 mg/kg-N		Y	NA	541	1025	1025	NA	PRJNA420786	SRR6511550	86	128	NA	Partial Response
+RCC_50		T	Metastasis	nivolumab 10 mg/kg-N		Y	NA	86	982	982	NA	PRJNA420786	SRR6511551	126	171	NA	Stable Disease
+RCC_85		N	Blood	nivolumab 2 mg/kg		intermediate benefit	NA	42	712	NA	NA	PRJNA420786	SRR6511552	52	83	NA	Stable Disease
+RCC_99		N	Blood	nivolumab 2 mg/kg		N	NA	41	41	NA	NA	PRJNA420786	SRR6511553	102	155	NA	Progressive Disease
+PD_005		T		Nivolumab	NA	N	NA	168	277	277	NA	PRJNA420786	SRR6450201	NA	NA	NA	Progressive Disease (intermediate benefit)
+PD_005		T		Nivolumab	NA	N	NA	168	277	277	NA	PRJNA420786	SRR6461166	NA	NA	NA	Progressive Disease (intermediate benefit)
+PD_007		T		Nivolumab + Ipilimumab	Y	Y	NA	448	448	448	NA	PRJNA420786	SRR6889242	NA	NA	NA	Partial Response
+PD_007		T		Nivolumab + Ipilimumab	Y	Y	NA	448	448	448	NA	PRJNA420786	SRR6450200	NA	NA	NA	Partial Response
+PD_010		T		Nivolumab + Ipilimumab	Y	Y	NA	454	454	454	NA	PRJNA420786	SRR6450191	NA	NA	NA	Complete Response
+PD_010		T		Nivolumab + Ipilimumab	Y	Y	NA	454	454	454	NA	PRJNA420786	SRR6461165	NA	NA	NA	Complete Response
+PD_011		T		Nivolumab	NA	intermediate benefit	NA	205	327	NA	NA	PRJNA420786	SRR6450202	NA	NA	NA	Progressive Disease (intermediate benefit)
+PD_011		T		Nivolumab	NA	intermediate benefit	NA	205	327	NA	NA	PRJNA420786	SRR6461159	NA	NA	NA	Progressive Disease (intermediate benefit)
+PD_012		T		Atezolizumab	NA	N	NA	61	581	581	NA	PRJNA420786	SRR6504840	NA	NA	NA	Progressive Disease
+PD_012		T		Atezolizumab	NA	N	NA	61	581	581	NA	PRJNA420786	SRR6450206	NA	NA	NA	Progressive Disease
+PD_013		T		Nivolumab + Ipilimumab	Y	Y	NA	399	399	399	NA	PRJNA420786	SRR6450204	NA	NA	NA	Partial Response
+PD_013		T		Nivolumab + Ipilimumab	Y	Y	NA	399	399	399	NA	PRJNA420786	SRR6461172	NA	NA	NA	Partial Response
+PD_014		T		Nivolumab + Ipilimumab	Y	Y	NA	433	433	433	NA	PRJNA420786	SRR6450199	NA	NA	NA	Stable Disease
+PD_014		T		Nivolumab + Ipilimumab	Y	Y	NA	433	433	433	NA	PRJNA420786	SRR6461162	NA	NA	NA	Stable Disease
+PD_015		T		Nivolumab	NA	N	NA	105	814	NA	NA	PRJNA420786	SRR6491482	NA	NA	NA	Progressive Disease (intermediate benefit)
+PD_015		T		Nivolumab	NA	N	NA	105	814	NA	NA	PRJNA420786	SRR6450194	NA	NA	NA	Progressive Disease (intermediate benefit)
+PD_018		T		Nivolumab	NA	Y	NA	672	1189	NA	NA	PRJNA420786	SRR6450195	NA	NA	NA	Partial Response
+PD_018		T		Nivolumab	NA	Y	NA	672	1189	NA	NA	PRJNA420786	SRR6461150	NA	NA	NA	Partial Response
+PD_019		T		Nivolumab	NA	Y	NA	220	230	230	NA	PRJNA420786	SRR6504580	NA	NA	NA	Stable Disease
+PD_019		T		Nivolumab	NA	Y	NA	220	230	230	NA	PRJNA420786	SRR6450196	NA	NA	NA	Stable Disease
+PD_020		T		Nivolumab	NA	N	NA	47	203	203	NA	PRJNA420786	SRR6450193	NA	NA	NA	Progressive Disease
+PD_020		T		Nivolumab	NA	N	NA	47	203	203	NA	PRJNA420786	SRR6461168	NA	NA	NA	Progressive Disease
+PD_021		T		Nivolumab	NA	N	NA	68	185	NA	NA	PRJNA420786	SRR6450190	NA	NA	NA	Progressive Disease
+PD_021		T		Nivolumab	NA	N	NA	68	185	NA	NA	PRJNA420786	SRR6461163	NA	NA	NA	Progressive Disease
+PD_022		T		Nivolumab	NA	N	NA	80	247	247	NA	PRJNA420786	SRR6450198	NA	NA	NA	Progressive Disease
+PD_022		T		Nivolumab	NA	N	NA	80	247	247	NA	PRJNA420786	SRR6461155	NA	NA	NA	Progressive Disease
+PD_023		T		Atezolizumab	NA	Y	NA	637	637	637	NA	PRJNA420786	SRR6450197	NA	NA	NA	Partial Response
+PD_023		T		Atezolizumab	NA	Y	NA	637	637	637	NA	PRJNA420786	SRR6504581	NA	NA	NA	Partial Response
+PD_024		T		Nivolumab	NA	N	NA	41	304	NA	NA	PRJNA420786	SRR6450192	NA	NA	NA	Progressive Disease
+PD_024		T		Nivolumab	NA	N	NA	41	304	NA	NA	PRJNA420786	SRR6461167	NA	NA	NA	Progressive Disease
+PD_025		T		Nivolumab	NA	Y	NA	333	1724	1724	NA	PRJNA420786	SRR6450205	NA	NA	NA	Stable Disease
+PD_025		T		Nivolumab	NA	Y	NA	333	1724	1724	NA	PRJNA420786	SRR6461173	NA	NA	NA	Stable Disease
+PD_026		T		Nivolumab	NA	Y	NA	171	377	377	NA	PRJNA420786	SRR6450203	NA	NA	NA	Stable Disease (intermediate benefit)
+PD_026		T		Nivolumab	NA	Y	NA	171	377	377	NA	PRJNA420786	SRR6461170	NA	NA	NA	Stable Disease (intermediate benefit)
+5	IIIB	T		Nivolumab	NA	N						EGAD00001004352	971484-3	NA	NA	NA	
+2	IIIB	T		Nivolumab	NA	Y						EGAD00001004352	18931416	NA	NA	NA	
+3	IV	T		Nivolumab + Ipilimumab	N	N						EGAD00001004352	967658-5	NA	NA	NA	
+4	IIIB	T		Nivolumab	NA	Y						EGAD00001004352	966214-4	NA	NA	NA	
+6	IIIC	T		Nivolumab + Ipilimumab	Y	Y						EGAD00001004352	978614-3	NA	NA	NA	
+10	IIIC	T		Nivolumab + Ipilimumab	Y	Y						EGAD00001004352	988518-5	NA	NA	NA	
+8	IIIC	T		Nivolumab + Ipilimumab	N	N						EGAD00001004352	982746-6	NA	NA	NA	
+7	IIIB	T		Nivolumab	NA	N						EGAD00001004352	980720-34	NA	NA	NA	
+11	IV	T		Nivolumab	NA	N						EGAD00001004352	997065-5	NA	NA	NA	
+12	IIIC	T		Nivolumab	NA	N						EGAD00001004352	1007449-2	NA	NA	NA	
+1	IIIB	T		Nivolumab + Ipilimumab	N	N						EGAD00001004352	951228-3	NA	NA	NA	
+13	IIIC	T		Nivolumab + Ipilimumab	Y	Y						EGAD00001004352	1004223-5	NA	NA	NA	
+15	IV	T		Nivolumab + Ipilimumab	Y	Y						EGAD00001004352	1018464-1	NA	NA	NA	
+14	IIIC	T		Nivolumab + Ipilimumab	N	N						EGAD00001004352	1016452-2	NA	NA	NA	
+16	IIIB	T		Nivolumab	NA	N						EGAD00001004352	1029860-5	NA	NA	NA	
+5	IIIB	N		Nivolumab	NA	N						EGAD00001004352	133058	NA	NA	NA	
+2	IIIB	N		Nivolumab	NA	Y						EGAD00001004352	130713	NA	NA	NA	
+3	IV	N		Nivolumab + Ipilimumab	N	N						EGAD00001004352	132530	NA	NA	NA	
+4	IIIB	N		Nivolumab	NA	Y						EGAD00001004352	132534	NA	NA	NA	
+6	IIIC	N		Nivolumab + Ipilimumab	Y	Y						EGAD00001004352	134582	NA	NA	NA	
+10	IIIC	N		Nivolumab + Ipilimumab	Y	Y						EGAD00001004352	139734	NA	NA	NA	
+8	IIIC	N		Nivolumab + Ipilimumab	N	N						EGAD00001004352	135491	NA	NA	NA	
+7	IIIB	N		Nivolumab	NA	N						EGAD00001004352	134910	NA	NA	NA	
+11	IV	N		Nivolumab	NA	N						EGAD00001004352	141349	NA	NA	NA	
+12	IIIC	N		Nivolumab	NA	N						EGAD00001004352	143213	NA	NA	NA	
+1	IIIB	N		Nivolumab + Ipilimumab	N	N						EGAD00001004352	126527	NA	NA	NA	
+13	IIIC	N		Nivolumab + Ipilimumab	Y	Y						EGAD00001004352	142826	NA	NA	NA	
+15	IV	N		Nivolumab + Ipilimumab	Y	Y						EGAD00001004352	144614	NA	NA	NA	
+14	IIIC	N		Nivolumab + Ipilimumab	N	N						EGAD00001004352	144488	NA	NA	NA	
+16	IIIB	N		Nivolumab	NA	N						EGAD00001004352	146561	NA	NA	NA	
+DM005	M1c	N	Peripheral Blood	Pembrolizumab	NA	Y		429	429	NA		PRJNA414014	SRR6431454	3058	NA	NA	Complete Response
+DM005	M1c	T	metastasis	Pembrolizumab	NA	Y		429	429	NA		PRJNA414014	SRR6431455	3058	NA	NA	Complete Response
+DM007	M1c	N	Non-tumor Tissue	Pembrolizumab	NA	Y		952	952	952		PRJNA414014	SRR6431456	1310	NA	NA	Complete Response
+DM007	M1c	T	metastasis	Pembrolizumab	NA	Y		952	952	952		PRJNA414014	SRR6431457	1310	NA	NA	Complete Response
+DM009	M1b	N	Peripheral Blood	Nivolumab	NA	Y		304	1916	1916		PRJNA414014	SRR6431458	1868	NA	NA	Partial Response
+DM009	M1b	T	Desmoplastic Melanoma	Nivolumab	NA	Y		304	1916	1916		PRJNA414014	SRR6431459	1868	NA	NA	Partial Response
+DM010	M1b	N	Non-tumor Tissue	Pembrolizumab	NA	Y		858	1278	1278		PRJNA414014	SRR6431460	669	NA	NA	Partial Response
+DM010	M1b	T	metastasis	Pembrolizumab	NA	Y		858	1278	1278		PRJNA414014	SRR6431461	669	NA	NA	Partial Response
+DM012	M1c	N	Non-tumor Tissue	Pembrolizumab	NA	Y		271	489	NA		PRJNA414014	SRR6431462	212	NA	NA	Partial Response
+DM012	M1c	T	Desmoplastic Melanoma	Pembrolizumab	NA	Y		271	489	NA		PRJNA414014	SRR6431463	212	NA	NA	Partial Response
+DM013	M1c	N	Non-tumor Tissue	Pembrolizumab	NA	Y		627	627	627		PRJNA414014	SRR6431464	1688	NA	NA	Partial Response
+DM013	M1c	T	metastasis	Pembrolizumab	NA	Y		627	627	627		PRJNA414014	SRR6431465	1688	NA	NA	Partial Response
+DM014	M1c	N	Non-tumor Tissue	Pembrolizumab	NA	N		82	554	NA		PRJNA414014	SRR6431466	525	NA	NA	Progressive Disease
+DM014	M1c	T	Desmoplastic Melanoma	Pembrolizumab	NA	N		82	554	NA		PRJNA414014	SRR6431467	525	NA	NA	Progressive Disease
+DM015	M1c	N	Non-tumor Tissue	Pembrolizumab	NA	N		103	630	NA		PRJNA414014	SRR6431468	1695	NA	NA	Progressive Disease
+DM015	M1c	T	metastasis	Pembrolizumab	NA	N		103	630	NA		PRJNA414014	SRR6431469	1695	NA	NA	Progressive Disease
+DM016	M1b	N	Non-tumor Tissue	Pembrolizumab	NA	N		110	356	NA		PRJNA414014	SRR6431470	659	NA	NA	Progressive Disease
+DM016	M1b	T	Desmoplastic Melanoma	Pembrolizumab	NA	N		110	356	NA		PRJNA414014	SRR6431471	659	NA	NA	Progressive Disease
+DM017	M1c	N	Non-tumor Tissue	Pembrolizumab	NA	N		100	228	NA		PRJNA414014	SRR6431472	1717	NA	NA	Progressive Disease
+DM017	M1c	T	Desmoplastic Melanoma	Pembrolizumab	NA	N		100	228	NA		PRJNA414014	SRR6431473	1717	NA	NA	Progressive Disease
+DM018	M1c	N	Non-tumor Tissue	Pembrolizumab + Ipilimumab	Y	Y		608	608	608		PRJNA414014	SRR6431474	643	NA	NA	Partial Response
+DM018	M1c	T	Desmoplastic Melanoma	Pembrolizumab + Ipilimumab	Y	Y		608	608	608		PRJNA414014	SRR6431475	643	NA	NA	Partial Response
+DM019	M1c	N	Peripheral Blood	Pembrolizumab	NA	Y		377	377	377		PRJNA414014	SRR6431476	1533	NA	NA	Stable Disease
+DM019	M1c	T	metastasis	Pembrolizumab	NA	Y		377	377	377		PRJNA414014	SRR6431477	1533	NA	NA	Stable Disease
+DM020	M1c	N	Peripheral Blood	Pembrolizumab	NA	Y		243	277	NA		PRJNA414014	SRR6431478	1395	NA	NA	Partial Response
+DM020	M1c	T	metastasis	Pembrolizumab	NA	Y		243	277	NA		PRJNA414014	SRR6431479	1395	NA	NA	Partial Response
+DM021	M1c	N	Peripheral Blood	Nivolumab	NA	Y		243	1904	1904		PRJNA414014	SRR6431480	509	NA	NA	Partial Response
+DM021	M1c	T	metastasis	Nivolumab	NA	Y		243	1904	1904		PRJNA414014	SRR6431481	509	NA	NA	Partial Response
+DM022	M1b	N	Peripheral Blood	Pembrolizumab	NA	Y		958	958	958		PRJNA414014	SRR6431482	1282	NA	NA	Partial Response
+DM022	M1b	T	Desmoplastic Melanoma	Pembrolizumab	NA	Y		958	958	958		PRJNA414014	SRR6431483	1282	NA	NA	Partial Response
+DM023	M1b	N	Peripheral Blood	Pembrolizumab	NA	N		85	170	NA		PRJNA414014	SRR6431484	1129	NA	NA	Progressive Disease
+DM023	M1b	T	Desmoplastic Melanoma	Pembrolizumab	NA	N		85	170	NA		PRJNA414014	SRR6431485	1129	NA	NA	Progressive Disease
+DM024	IIIC	N	Peripheral Blood	Pembrolizumab	NA	Y		450	450	450		PRJNA414014	SRR6431486	462	NA	NA	Complete Response
+DM024	IIIC	T	Desmoplastic Melanoma	Pembrolizumab	NA	Y		450	450	450		PRJNA414014	SRR6431487	462	NA	NA	Complete Response

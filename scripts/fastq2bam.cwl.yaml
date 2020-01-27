@@ -1,0 +1,117 @@
+class: Workflow
+cwlVersion: v1.0
+label: MC3-E2E
+
+requirements:
+  - class: MultipleInputFeatureRequirement
+  - class: SubworkflowFeatureRequirement
+  - class: ScatterFeatureRequirement
+  - class: StepInputExpressionRequirement
+  - class: InlineJavascriptRequirement
+
+inputs:
+  tumor_fastqs:
+    - type: array
+      items: File
+
+  tumor_sample_name:
+    type: string
+
+  normal_fastqs:
+    - type: array
+      items: File
+
+  normal_sample_name:
+    type: string
+
+  dbsnp:
+    type: File
+    secondaryFiles:
+      - .tbi
+
+  1000g_phase1:
+    type: File
+    secondaryFiles:
+      - .tbi
+  
+  mills_and_1000g:
+    type: File
+    secondaryFiles:
+      - .tbi
+
+  referenceTar:
+    type: File
+    doc: "The core reference (fa, fai, dict) as tar.gz"
+
+  reference:
+    type: File
+    secondaryFiles:
+      - .fai
+      - ^.dict
+
+  bwa_idx:
+    type: File
+    doc: "The BWA indexes in tar.gz"
+
+steps:
+  align_tumor:
+    run: dockstore-cgpmap/Dockstore.cwl
+    in:
+      bams_in: tumor_fastqs
+      cram:
+        default: false
+      sample: tumor_sample_name
+      reference: referenceTar
+      bwa_idx: bwa_idx
+    out:
+      - out_bam
+
+  align_normal:
+    run: dockstore-cgpmap/Dockstore.cwl
+    in:
+      bams_in: normal_fastqs
+      cram:
+        default: false
+      sample: normal_sample_name
+      reference: referenceTar
+      bwa_idx: bwa_idx
+    out:
+      - out_bam
+
+  gatk_coclean:
+    run: gatk-cocleaning-tool/gatk-cocleaning-workflow.cwl.yaml
+    in:
+      tumor_bam: align_tumor/out_bam
+      normal_bam: align_normal/out_bam
+      knownIndels:
+        - 1000g_phase1
+        - mills_and_1000g
+      knownSites:
+        source: dbsnp
+        valueFrom: ${ return [ self ]; }
+      reference: reference
+    out:
+      - cleaned_tumor_bam
+      - cleaned_normal_bam
+
+  rename_tumor_index:
+    run: rename.cwl.yaml
+    in:
+      in_file: gatk_coclean/cleaned_tumor_bam
+    out:
+      - out_file
+
+  rename_normal_index:
+    run: rename.cwl.yaml
+    in:
+      in_file: gatk_coclean/cleaned_normal_bam
+    out:
+      - out_file
+
+outputs:
+  normalBam:
+    type: File
+    outputSource: gatk_coclean/cleaned_normal_bam
+  tumorBam:
+    type: File
+    outputSource: gatk_coclean/cleaned_tumor_bam

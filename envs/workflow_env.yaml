@@ -1,0 +1,42 @@
+name: snakemake_env
+channels:
+  - bioconda
+  - defaults
+dependencies:
+  - attrs==17.4.0
+  - avro-cwl==1.8.4
+  - CacheControl==0.11.7
+  - certifi==2018.1.18
+  - chardet==3.0.4
+  - curl=7.64.1=hbc83047_0
+  - cwlref-runner==1.0
+  - cwltool==1.0.20180211183944
+  - future==0.16.0
+  - idna==2.6
+  - isodate==0.6.0
+  - lockfile==0.12.2
+  - mistune==0.7.4
+  - mock==2.0.0
+  - pbr==3.1.1
+  - perl==5.26.2
+  - perl-app-cpanminus==
+  - pip==19.0.3
+  - pluggy==0.6.0
+  - py==1.5.2
+  - pyparsing==2.2.0
+  - pytest==3.4.0
+  - python=3.6.8
+  - r==3.5.1
+  - rdflib==4.2.2
+  - rdflib-jsonld==0.4.0
+  - requests==2.18.4
+  - ruamel.yaml==0.14.12
+  - samtools=1.9=h8571acd_11
+  - schema-salad==2.6.20180214144209
+  - shellescape==3.4.1
+  - six==1.12.0
+  - snakemake==3.13.3
+  - sra-tools==2.10.0
+  - typing==3.6.4
+  - urllib3==1.22
+  - wheel=0.33.1=py36_0
