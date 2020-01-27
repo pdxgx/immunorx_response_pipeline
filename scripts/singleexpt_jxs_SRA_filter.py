@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-snaptron_comparison_original_unused.py
+singleexpt_jxs_SRA_filter.py
 Python 3 code for checking experimental junctions against previously collected
 snaptron junctions from SRA experiments.
 
