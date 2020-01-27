@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 """
-_______.py
+cancer_junction_query.py
 Python code for querying single sample RNA-seq results against TCGA/GTEx
 junction database to identify cancer-specific junctions.
 
