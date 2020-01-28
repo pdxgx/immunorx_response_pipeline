@@ -1,6 +1,6 @@
 # Immunotherapy response pipeline
 
-Pipeline for reproducing the workflow used to identify predictors of immunotherapy response as described in our [manuscript](https://www.biorxiv.org/content/10.1101/665026v1). 
+Pipeline for reproducing the workflow used to identify predictors of immunotherapy response as described in our [manuscript](https://www.biorxiv.org/content/10.1101/665026v2). 
 
 ## Software requirements
 
@@ -609,6 +609,6 @@ Graff et al. Early evidence of anti-PD-1 activity in enzalutamide-resistant pros
 
 Le et al. Mismatch repair deficiency predicts response of solid tumors to PD-1 blockade. Science. 2017; 357:409-413.
 
-Wood et al. Burden of tumor mutations, neoepitopes, and other variants are cautionary predictors of cancer immunotherapy response and overall survival. Preprint.
+Wood et al. Burden of tumor mutations, neoepitopes, and other variants are dubious predictors of cancer immunotherapy response and overall survival. Preprint.
 
 
